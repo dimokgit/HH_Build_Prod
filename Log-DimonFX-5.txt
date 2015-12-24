@@ -1,0 +1,4 @@
+[12 22:01:46.618]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:448.0ms
+	RemoveAll:448
+

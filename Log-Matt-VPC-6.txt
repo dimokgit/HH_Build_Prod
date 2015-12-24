@@ -1,0 +1,201 @@
+[26 08:18:11.270]  **************** Exception ***************
+USD/JPY Settings loaded.
+
+[26 08:18:11.359]  **************** Exception ***************
+USD/JPY Settings loaded.
+
+[26 08:18:12.380]  **************** Exception ***************
+News Done.
+
+[26 08:18:35.433]  **************** Exception ***************
+Account D172192574001 logged out.
+
+[26 08:18:38.251]  **************** Exception ***************
+Account D172192574001 logged in.
+
+[26 08:20:13.048]  **************** Exception ***************
+{ TradingAngleRange = -1, WaveStDevRatio = 0.1 }
+
+[26 08:20:38.022]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20021
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:20:39.155]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19997
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:20:39.241]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19997
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:21:09.347]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19982
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:21:56.988]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20000
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:22:22.377]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19999
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:23:37.838]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20006
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:24:02.227]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19995
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:24:34.176]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20000
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:24:41.342]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19998
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:24:42.632]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19998
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:28:12.194]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20001
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:29:06.035]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20128
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:29:07.055]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20100
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:29:07.082]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20099
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:29:08.086]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20072
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:29:08.098]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20072
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:29:09.122]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20045
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:29:09.132]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20045
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:29:10.144]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20027
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:29:10.158]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20026
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:29:11.168]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20008
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:29:11.177]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20008
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:29:50.612]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20005
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:30:26.428]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:19989
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:32:59.047]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20002
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:33:28.696]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20009
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:34:25.029]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20005
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.get_RatesArraySafe() in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1957
+[26 08:35:22.115]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20024
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:35:24.048]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20000
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:36:20.510]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20019
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:36:21.193]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20008
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal(Action`1 action) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3161
+   at HedgeHog.Alice.Store.TradingMacro.AddCurrentTick(Price price) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2363
+   at HedgeHog.Alice.Store.TradingMacro.<SubscribeToTradeClosedEVent>b__329(EventPattern`1 pce) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 1153
+[26 08:37:04.359]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20007
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:38:15.432]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20003
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:39:07.434]  **************** Exception ***************
+[USD/JPY] _innerRateArrayLocker was busy for more then 1 second. RatesInternal.Count:20002
+   at HedgeHog.Alice.Store.TradingMacro.UseRatesInternal[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3153
+   at HedgeHog.Alice.Store.TradingMacro.RunPriceChangedTask(PriceChangedEventArgs e, Action`1 doAfterScanCorridor) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 2588
+[26 08:39:31.329]  **************** Exception ***************
+Account D172192574001 logged out.
+

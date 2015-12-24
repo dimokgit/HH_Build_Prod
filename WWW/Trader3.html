@@ -1,0 +1,214 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <title>Trader 3</title>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="d3-knockout/style/bar-chart-demo.css">
+
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <script type='text/javascript' src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
+  <script src="Scripts/jquery.signalR-2.1.2.min.js"></script>
+  <style type="text/css">
+    body, html {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      overflow: visible;
+    }
+
+    .container {
+      /*background-color: #99CCFF;*/
+      padding: 0;
+      margin: 0;
+    }
+
+    ul, li {
+      padding: 0;
+      margin: 0;
+    }
+
+    #profit {
+      display: inline-block;
+    }
+
+    .profit {
+      background-color: chartreuse;
+      font-weight: bold;
+    }
+
+    .loss {
+      background-color: #ffd3d9;
+      font-weight: bold;
+    }
+    .modal-header{
+      min-height:1em;
+      padding:5px;
+    }
+    .modal-body{
+      padding:5px;
+    }
+    .form-horizontal .form-group{
+      margin-bottom:0;
+      margin-left:0;
+      margin-right:0;
+    }
+  </style>
+  <script>
+    $(function () {
+      $('.modal').on('show.bs.modal', function () {
+        $(this).find('.modal-body').css({
+          width: 'auto', //probably not needed
+          height: 'auto', //probably not needed
+          'max-height': '100%'
+        });
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div class="masthead">
+    <nav>
+      <ul class="nav nav-tabs">
+        <li><input type="button" value="Stop" id="stopTrades" /></li>
+        <li><input type="button" value=" Close " id="closeTrades" /></li>
+        <li><button id="buyDown">B<span class="glyphicon glyphicon-save"></span></button></li>
+        <li><button id="buyUp">B<span class="glyphicon glyphicon-open"></span></button></li>
+        <li><button id="sellDown">S<span class="glyphicon glyphicon-save"></span></button></li>
+        <li><button id="sellUp">S<span class="glyphicon glyphicon-open"></span></button></li>
+        <li>
+          <button class="dropdown-toggle" data-toggle="dropdown" role="button" area-expanded="false">
+            <span class="glyphicon glyphicon-superscript"></span>
+          </button>
+          <ul class="dropdown-menu" role="menu">
+            <li><button data-bind="click:setTradeCount.bind($data,0)">Trade Count:0</button></li>
+            <li><button data-bind="click:setTradeCount.bind($data,1)">Trade Count:1</button></li>
+            <li><button data-bind="click:setTradeCount.bind($data,2)">Trade Count:2</button></li>
+          </ul>
+        </li>
+        <li role="presentation" class="dropdown-submenu">
+          <button class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-random"></span></button>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <input type="button" value="1" data-bind="click:setTradeLevels.bind($data,1,null)" />
+              <button data-bind="click:setTradeLevels.bind($data,1,true)">Buy</button>
+              <button data-bind="click:setTradeLevels.bind($data,1,false)">Sell</button>
+            </li>
+            <li>
+              <input type="button" value="2" data-bind="click:setTradeLevels.bind($data,2,null)" />
+              <button data-bind="click:setTradeLevels.bind($data,2,true)">Buy</button>
+              <button data-bind="click:setTradeLevels.bind($data,2,false)">Sell</button>
+            </li>
+            <li>
+              <input type="button" value="3" data-bind="click:setTradeLevels.bind($data,3,null)" />
+              <button data-bind="click:setTradeLevels.bind($data,3,true)">Buy</button>
+              <button data-bind="click:setTradeLevels.bind($data,3,false)">Sell</button>
+            </li>
+            <li>
+              <input type="button" value="4" data-bind="click:setTradeLevels.bind($data,4,null)" />
+              <button data-bind="click:setTradeLevels.bind($data,4,true)">Buy</button>
+              <button data-bind="click:setTradeLevels.bind($data,4,false)">Sell</button>
+            </li>
+            <li role="presentation" class="divider"></li>
+            <li><input type="button" value="Flip" data-bind="click:flipTradeLevels" /></li>
+            <li class="dropdown-submenu">
+              <span tabindex="-1">Levels</span>
+              <ul class="dropdown-menu">
+                <li>Dimok</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <!--Other-->
+        <li role="presentation" class="dropdown">
+          <button class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">...</button>
+          <ul class="dropdown-menu" role="menu">
+            <li><button id="toggleIsActive">Active</button></li>
+            <li><input type="button" value="Manual" id="manualToggle" /></li>
+            <li><button id="toggleStartDate">StartDate</button></li>
+            <li><button id="setDefaultTradeLevels">Default</button></li>
+            <li><button id="alwaysOn">AlwaysOn</button></li>
+            <li><button id="buySellInit">WrapTrade</button></li>
+            <li>
+              <input type="button" value=" Buy " id="buy" />
+              <input type="button" value=" Sell " id="sell" />
+            </li>
+          </ul>
+        </li>
+        <!--Settings-->
+        <li class="navbar-right" style="margin-right:2px">
+          <button class=""
+                  data-toggle="modal"
+                  data-target="#settingsDialog">
+            <span class="glyphicon glyphicon-cog"></span>
+          </button>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <!--Info bar-->
+  <div class="container container-fluid">
+    <span id="profit" data-bind="text:profit,css:{profit:profit()>0,loss:profit()<0}"></span>
+    <span id="discussion"></span>
+    <input value="" id="rsdMin" style="width:1.5em" />
+  </div>
+
+  <!--Charts-->
+  <div data-bind="lineChart: chartData"></div>
+  <div data-bind="lineChart: chartData2"></div>
+
+  <!--Settings dialog-->
+  <div data-bind="with:tradeSettings" class="modal fade" id="settingsDialog" tabindex="-1" role="dialog" aria-labelledby="settingsDialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <span class="modal-title" id="myModalLabel">Trade Settings</span>
+        </div>
+        <div class="modal-body">
+          <form class="form-horizontal row">
+            <div class="form-group">
+              <label for="isTakeBack" class="control-label col-xs-7">Is Take Back</label>
+              <div class=" col-xs-5">
+                <input id="isTakeBack" type="checkbox" data-bind="checked:IsTakeBack">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="limitProfit" class="control-label col-xs-7">Limit Profit</label>
+              <div class=" col-xs-5">
+                <input id="limitProfit" type="checkbox" data-bind="checked:LimitProfitByRatesHeight">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="tradesMax" class="control-label col-xs-7">Max Trades</label>
+              <div class="col-xs-5">
+                <input type="number" class="form-control" id="tradesMax" data-bind="value:CorridorCrossesMaximum" placeholder="">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-xs-offset-7 col-xs-5">
+                <button class="btn btn-primary btn-xs" data-bind="click:$parent.saveTradeSettings" data-dismiss="modal">Save</button>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer" style="display:none">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Save changes</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type='text/javascript' src='d3-knockout/view-models/line-data-view-model.js'></script>
+  <script type='text/javascript' src='d3-knockout/custom-binding-handlers/trend-line-chart-binding.js'></script>
+  <script type='text/javascript' src='d3-knockout/app.js'></script>
+</body>
+</html>

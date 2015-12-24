@@ -1,0 +1,5080 @@
+[12 14:30:48.350]  **************** Exception ***************
+EUR/USD Settings loaded.
+
+[12 14:30:48.431]  **************** Exception ***************
+USD/JPY Settings loaded.
+
+[12 14:30:49.072]  **************** Exception ***************
+{ url = http://+:80/ }
+
+[12 14:30:49.945]  **************** Exception ***************
+News Done.
+
+[12 14:31:04.359]  **************** Exception ***************
+Account D172647516001 logged out.
+
+[12 14:31:08.228]  **************** Exception ***************
+Account D172647516001 logged in.
+
+[12 14:32:20.331]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:3.0ms
+	RemoveAll:2
+
+[12 14:32:20.628]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:0.0ms
+	RemoveAll:0
+
+[12 14:32:22.531]  **************** Exception ***************
+{ TradingAngleRange = -0.2, WaveStDevRatio = 5.5 }
+
+[12 14:32:46.649]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:510.0ms
+	RemoveAll:510
+
+[12 14:33:07.241]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:872.0ms
+	RemoveAll:872
+
+[12 14:33:27.723]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:653.0ms
+	RemoveAll:653
+
+[12 14:33:47.879]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:745.0ms
+	RemoveAll:745
+
+[12 14:34:08.720]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:703.0ms
+	RemoveAll:703
+
+[12 14:34:29.312]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,265.0ms
+	RemoveAll:1264
+
+[12 14:34:49.156]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:972.0ms
+	RemoveAll:972
+
+[12 14:35:09.841]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,069.0ms
+	RemoveAll:1069
+
+[12 14:35:29.919]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,026.0ms
+	RemoveAll:1026
+
+[12 14:35:49.996]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:879.0ms
+	RemoveAll:879
+
+[12 14:36:10.057]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:895.0ms
+	RemoveAll:895
+
+[12 14:36:29.947]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:829.0ms
+	RemoveAll:829
+
+[12 14:36:52.505]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:926.0ms
+	RemoveAll:926
+
+[12 14:37:12.395]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:548.0ms
+	RemoveAll:548
+
+[12 14:37:33.642]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:608.0ms
+	RemoveAll:608
+
+[12 14:37:52.659]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:381.0ms
+	RemoveAll:381
+
+[12 14:38:16.028]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:834.0ms
+	RemoveAll:834
+
+[12 14:38:35.356]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:507.0ms
+	RemoveAll:507
+
+[12 14:38:59.536]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:646.0ms
+	RemoveAll:646
+
+[12 14:39:18.709]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:692.0ms
+	RemoveAll:692
+
+[12 14:39:39.410]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:647.0ms
+	RemoveAll:647
+
+[12 14:39:58.738]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:570.0ms
+	RemoveAll:570
+
+[12 14:40:17.926]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:604.0ms
+	RemoveAll:604
+
+[12 14:40:42.839]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:463.0ms
+	RemoveAll:463
+
+[12 14:41:02.480]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:213.0ms
+	RemoveAll:213
+
+[12 14:41:21.808]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:558.0ms
+	RemoveAll:557
+
+[12 14:41:42.525]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:842.0ms
+	RemoveAll:842
+
+[12 14:42:03.382]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:572.0ms
+	RemoveAll:572
+
+[12 14:42:24.505]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:476.0ms
+	RemoveAll:476
+
+[12 14:42:44.488]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:738.0ms
+	RemoveAll:738
+
+[12 14:43:03.770]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:547.0ms
+	RemoveAll:547
+
+[12 14:43:24.035]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:884.0ms
+	RemoveAll:884
+
+[12 14:43:44.096]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:919.0ms
+	RemoveAll:919
+
+[12 14:44:04.782]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:559.0ms
+	RemoveAll:559
+
+[12 14:44:35.670]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:697.0ms
+	RemoveAll:697
+
+[12 14:44:55.997]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:600.0ms
+	RemoveAll:600
+
+[12 14:45:16.916]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:563.0ms
+	RemoveAll:563
+
+[12 14:45:40.004]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:787.0ms
+	RemoveAll:787
+
+[12 14:46:01.345]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:718.0ms
+	RemoveAll:718
+
+[12 14:46:21.703]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:606.0ms
+	RemoveAll:606
+
+[12 14:46:41.297]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:644.0ms
+	RemoveAll:644
+
+[12 14:47:00.875]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:496.0ms
+	RemoveAll:496
+
+[12 14:47:21.592]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:527.0ms
+	RemoveAll:527
+
+[12 14:47:44.788]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:818.0ms
+	RemoveAll:818
+
+[12 14:48:04.632]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:886.0ms
+	RemoveAll:886
+
+[12 14:48:28.702]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:554.0ms
+	RemoveAll:554
+
+[12 14:48:50.433]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:944.0ms
+	RemoveAll:944
+
+[12 14:49:10.744]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:512.0ms
+	RemoveAll:512
+
+[12 14:49:29.901]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:558.0ms
+	RemoveAll:558
+
+[12 14:49:53.551]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:335.0ms
+	RemoveAll:335
+
+[12 14:50:12.255]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:288.0ms
+	RemoveAll:288
+
+[12 14:50:34.283]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:643.0ms
+	RemoveAll:642
+
+[12 14:50:55.265]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:647.0ms
+	RemoveAll:647
+
+[12 14:51:14.702]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:354.0ms
+	RemoveAll:354
+
+[12 14:51:34.920]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:464.0ms
+	RemoveAll:464
+
+[12 14:51:54.186]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:563.0ms
+	RemoveAll:562
+
+[12 14:52:14.887]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:407.0ms
+	RemoveAll:407
+
+[12 14:52:37.897]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:700.0ms
+	RemoveAll:700
+
+[12 14:53:16.991]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,009.0ms
+	RemoveAll:1009
+
+[12 14:53:47.271]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:295.0ms
+	RemoveAll:295
+
+[12 14:54:06.552]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:626.0ms
+	RemoveAll:626
+
+[12 14:54:26.458]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:364.0ms
+	RemoveAll:364
+
+[12 14:54:45.630]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:298.0ms
+	RemoveAll:298
+
+[12 14:55:06.987]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:416.0ms
+	RemoveAll:415
+
+[12 14:55:39.825]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:465.0ms
+	RemoveAll:465
+
+[12 14:56:01.275]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:459.0ms
+	RemoveAll:459
+
+[12 14:56:25.174]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:634.0ms
+	RemoveAll:634
+
+[12 14:56:48.527]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:726.0ms
+	RemoveAll:726
+
+[12 14:57:07.700]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:420.0ms
+	RemoveAll:420
+
+[12 14:57:27.122]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:759.0ms
+	RemoveAll:759
+
+[12 14:57:46.450]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:506.0ms
+	RemoveAll:506
+
+[12 14:58:05.794]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:187.0ms
+	RemoveAll:187
+
+[12 14:58:24.733]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:194.0ms
+	RemoveAll:194
+
+[12 14:58:44.404]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:647.0ms
+	RemoveAll:647
+
+[12 14:59:04.045]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,004.0ms
+	RemoveAll:1004
+
+[12 14:59:24.387]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:549.0ms
+	RemoveAll:549
+
+[12 14:59:44.995]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:882.0ms
+	RemoveAll:882
+
+[12 15:00:05.025]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,302.0ms
+	RemoveAll:1302
+
+[12 15:00:25.602]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:837.0ms
+	RemoveAll:837
+
+[12 15:00:47.348]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:355.0ms
+	RemoveAll:355
+
+[12 15:01:06.786]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:765.0ms
+	RemoveAll:765
+
+[12 15:01:27.783]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:591.0ms
+	RemoveAll:591
+
+[12 15:01:47.611]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:683.0ms
+	RemoveAll:683
+
+[12 15:02:08.655]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,198.0ms
+	RemoveAll:1198
+
+[12 15:02:29.544]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:766.0ms
+	RemoveAll:766
+
+[12 15:02:48.716]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:396.0ms
+	RemoveAll:396
+
+[12 15:03:08.263]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:604.0ms
+	RemoveAll:604
+
+[12 15:03:27.436]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:496.0ms
+	RemoveAll:496
+
+[12 15:03:48.714]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:473.0ms
+	RemoveAll:473
+
+[12 15:04:07.309]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:157.0ms
+	RemoveAll:157
+
+[12 15:04:26.700]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:584.0ms
+	RemoveAll:584
+
+[12 15:04:46.528]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:840.0ms
+	RemoveAll:840
+
+[12 15:05:06.293]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,103.0ms
+	RemoveAll:1103
+
+[12 15:05:26.979]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,121.0ms
+	RemoveAll:1121
+
+[12 15:05:46.962]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:797.0ms
+	RemoveAll:797
+
+[12 15:06:06.369]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:699.0ms
+	RemoveAll:699
+
+[12 15:06:26.212]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:722.0ms
+	RemoveAll:722
+
+[12 15:06:46.320]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:895.0ms
+	RemoveAll:895
+
+[12 15:07:05.861]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:669.0ms
+	RemoveAll:669
+
+[12 15:07:25.377]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:282.0ms
+	RemoveAll:282
+
+[12 15:07:45.547]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:612.0ms
+	RemoveAll:612
+
+[12 15:08:07.777]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:564.0ms
+	RemoveAll:564
+
+[12 15:08:31.302]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,249.0ms
+	RemoveAll:1249
+
+[12 15:09:02.986]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:779.0ms
+	RemoveAll:779
+
+[12 15:09:23.360]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,037.0ms
+	RemoveAll:1037
+
+[12 15:09:49.209]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:616.0ms
+	RemoveAll:616
+
+[12 15:10:08.335]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:227.0ms
+	RemoveAll:227
+
+[12 15:10:30.253]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:348.0ms
+	RemoveAll:348
+
+[12 15:10:51.110]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:498.0ms
+	RemoveAll:498
+
+[12 15:11:13.683]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:663.0ms
+	RemoveAll:663
+
+[12 15:11:34.587]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:964.0ms
+	RemoveAll:964
+
+[12 15:11:54.820]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:355.0ms
+	RemoveAll:355
+
+[12 15:12:14.383]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:846.0ms
+	RemoveAll:845
+
+[12 15:12:33.680]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:873.0ms
+	RemoveAll:873
+
+[12 15:12:58.484]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,032.0ms
+	RemoveAll:1032
+
+[12 15:13:17.656]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:810.0ms
+	RemoveAll:810
+
+[12 15:13:38.358]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:699.0ms
+	RemoveAll:699
+
+[12 15:13:57.405]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:621.0ms
+	RemoveAll:621
+
+[12 15:14:22.615]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:540.0ms
+	RemoveAll:540
+
+[12 15:14:43.082]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:947.0ms
+	RemoveAll:947
+
+[12 15:15:02.629]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,021.0ms
+	RemoveAll:1021
+
+[12 15:15:22.457]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,059.0ms
+	RemoveAll:1059
+
+[12 15:15:44.250]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:802.0ms
+	RemoveAll:802
+
+[12 15:16:03.937]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:998.0ms
+	RemoveAll:998
+
+[12 15:16:23.422]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,058.0ms
+	RemoveAll:1058
+
+[12 15:16:43.093]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:822.0ms
+	RemoveAll:822
+
+[12 15:17:03.311]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:914.0ms
+	RemoveAll:914
+
+[12 15:17:22.702]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:864.0ms
+	RemoveAll:864
+
+[12 15:17:41.796]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:435.0ms
+	RemoveAll:435
+
+[12 15:18:01.920]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:645.0ms
+	RemoveAll:645
+
+[12 15:18:23.339]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:627.0ms
+	RemoveAll:627
+
+[12 15:18:44.867]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:602.0ms
+	RemoveAll:602
+
+[12 15:19:05.662]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:809.0ms
+	RemoveAll:809
+
+[12 15:19:28.968]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:578.0ms
+	RemoveAll:578
+
+[12 15:19:48.110]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:811.0ms
+	RemoveAll:811
+
+[12 15:20:10.106]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,401.0ms
+	RemoveAll:1401
+
+[12 15:20:29.231]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:502.0ms
+	RemoveAll:502
+
+[12 15:20:50.120]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:613.0ms
+	RemoveAll:613
+
+[12 15:21:18.839]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:734.0ms
+	RemoveAll:734
+
+[12 15:21:38.495]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:89.0ms
+	RemoveAll:89
+
+[12 15:22:00.928]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:513.0ms
+	RemoveAll:513
+
+[12 15:22:19.789]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:487.0ms
+	RemoveAll:486
+
+[12 15:22:41.332]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:782.0ms
+	RemoveAll:782
+
+[12 15:23:01.300]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:581.0ms
+	RemoveAll:581
+
+[12 15:23:20.956]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:837.0ms
+	RemoveAll:837
+
+[12 15:23:41.907]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,255.0ms
+	RemoveAll:1255
+
+[12 15:24:06.384]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,174.0ms
+	RemoveAll:1174
+
+[12 15:24:26.804]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,292.0ms
+	RemoveAll:1292
+
+[12 15:24:48.738]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,073.0ms
+	RemoveAll:1073
+
+[12 15:25:08.596]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,145.0ms
+	RemoveAll:1145
+
+[12 15:25:28.643]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,129.0ms
+	RemoveAll:1129
+
+[12 15:25:48.143]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:826.0ms
+	RemoveAll:826
+
+[12 15:26:08.204]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,072.0ms
+	RemoveAll:1072
+
+[12 15:26:29.061]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:860.0ms
+	RemoveAll:860
+
+[12 15:26:48.437]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:658.0ms
+	RemoveAll:658
+
+[12 15:27:10.495]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:651.0ms
+	RemoveAll:651
+
+[12 15:27:30.073]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:596.0ms
+	RemoveAll:596
+
+[12 15:27:49.979]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,108.0ms
+	RemoveAll:1108
+
+[12 15:28:10.384]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:986.0ms
+	RemoveAll:986
+
+[12 15:28:30.086]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:771.0ms
+	RemoveAll:771
+
+[12 15:28:49.212]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:747.0ms
+	RemoveAll:747
+
+[12 15:29:22.955]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:901.0ms
+	RemoveAll:901
+
+[12 15:29:44.670]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:582.0ms
+	RemoveAll:581
+
+[12 15:30:05.902]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,062.0ms
+	RemoveAll:1062
+
+[12 15:30:27.414]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:968.0ms
+	RemoveAll:967
+
+[12 15:30:47.991]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,299.0ms
+	RemoveAll:1299
+
+[12 15:31:07.616]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:728.0ms
+	RemoveAll:728
+
+[12 15:31:27.256]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:925.0ms
+	RemoveAll:925
+
+[12 15:31:48.363]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,049.0ms
+	RemoveAll:1049
+
+[12 15:32:07.317]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:579.0ms
+	RemoveAll:579
+
+[12 15:32:26.879]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:911.0ms
+	RemoveAll:911
+
+[12 15:32:46.379]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:887.0ms
+	RemoveAll:887
+
+[12 15:33:06.659]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:384.0ms
+	RemoveAll:384
+
+[12 15:33:27.205]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:707.0ms
+	RemoveAll:707
+
+[12 15:33:49.357]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,080.0ms
+	RemoveAll:1080
+
+[12 15:34:09.028]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:381.0ms
+	RemoveAll:381
+
+[12 15:34:29.043]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,061.0ms
+	RemoveAll:1061
+
+[12 15:34:49.105]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:715.0ms
+	RemoveAll:715
+
+[12 15:35:09.806]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,271.0ms
+	RemoveAll:1271
+
+[12 15:35:29.696]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:987.0ms
+	RemoveAll:987
+
+[12 15:35:50.584]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,037.0ms
+	RemoveAll:1037
+
+[12 15:36:12.144]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,068.0ms
+	RemoveAll:1068
+
+[12 15:36:32.127]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:869.0ms
+	RemoveAll:869
+
+[12 15:36:51.768]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:296.0ms
+	RemoveAll:296
+
+[12 15:37:11.283]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 15:37:30.768]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:943.0ms
+	RemoveAll:943
+
+[12 15:37:51.173]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,019.0ms
+	RemoveAll:1019
+
+[12 15:38:10.002]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:377.0ms
+	RemoveAll:377
+
+[12 15:38:30.063]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:740.0ms
+	RemoveAll:740
+
+[12 15:38:50.718]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:978.0ms
+	RemoveAll:978
+
+[12 15:39:19.219]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:858.0ms
+	RemoveAll:858
+
+[12 15:39:39.000]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:873.0ms
+	RemoveAll:873
+
+[12 15:40:00.450]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:769.0ms
+	RemoveAll:769
+
+[12 15:40:21.994]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,244.0ms
+	RemoveAll:1244
+
+[12 15:40:44.427]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,179.0ms
+	RemoveAll:1179
+
+[12 15:41:04.738]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:984.0ms
+	RemoveAll:984
+
+[12 15:41:24.035]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:543.0ms
+	RemoveAll:543
+
+[12 15:41:48.199]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:221.0ms
+	RemoveAll:221
+
+[12 15:42:10.523]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:781.0ms
+	RemoveAll:781
+
+[12 15:42:30.226]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:709.0ms
+	RemoveAll:709
+
+[12 15:42:48.977]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:269.0ms
+	RemoveAll:269
+
+[12 15:43:08.914]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:997.0ms
+	RemoveAll:997
+
+[12 15:43:34.638]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:999.0ms
+	RemoveAll:999
+
+[12 15:43:55.480]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:449.0ms
+	RemoveAll:449
+
+[12 15:44:18.194]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:982.0ms
+	RemoveAll:982
+
+[12 15:44:38.723]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:902.0ms
+	RemoveAll:902
+
+[12 15:45:02.186]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,084.0ms
+	RemoveAll:1084
+
+[12 15:45:21.670]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,099.0ms
+	RemoveAll:1099
+
+[12 15:45:42.137]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:905.0ms
+	RemoveAll:905
+
+[12 15:46:02.464]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,194.0ms
+	RemoveAll:1194
+
+[12 15:46:22.058]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:758.0ms
+	RemoveAll:757
+
+[12 15:46:42.728]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:892.0ms
+	RemoveAll:892
+
+[12 15:47:03.585]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,042.0ms
+	RemoveAll:1042
+
+[12 15:47:22.960]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:875.0ms
+	RemoveAll:875
+
+[12 15:47:43.162]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,381.0ms
+	RemoveAll:1381
+
+[12 15:48:03.925]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,288.0ms
+	RemoveAll:1288
+
+[12 15:48:23.753]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:888.0ms
+	RemoveAll:888
+
+[12 15:48:43.456]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:985.0ms
+	RemoveAll:985
+
+[12 15:49:03.439]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,186.0ms
+	RemoveAll:1186
+
+[12 15:49:23.392]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:857.0ms
+	RemoveAll:857
+
+[12 15:49:45.778]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:683.0ms
+	RemoveAll:683
+
+[12 15:50:05.590]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:777.0ms
+	RemoveAll:776
+
+[12 15:50:25.371]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:740.0ms
+	RemoveAll:740
+
+[12 15:50:44.793]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:563.0ms
+	RemoveAll:563
+
+[12 15:51:05.322]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:668.0ms
+	RemoveAll:667
+
+[12 15:51:25.524]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:719.0ms
+	RemoveAll:719
+
+[12 15:51:45.196]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:824.0ms
+	RemoveAll:824
+
+[12 15:52:04.618]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:590.0ms
+	RemoveAll:590
+
+[12 15:52:24.134]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:882.0ms
+	RemoveAll:882
+
+[12 15:52:44.148]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:952.0ms
+	RemoveAll:952
+
+[12 15:53:04.491]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:893.0ms
+	RemoveAll:893
+
+[12 15:53:23.960]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:856.0ms
+	RemoveAll:856
+
+[12 15:53:44.755]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:677.0ms
+	RemoveAll:677
+
+[12 15:54:04.067]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:749.0ms
+	RemoveAll:749
+
+[12 15:54:24.020]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:518.0ms
+	RemoveAll:518
+
+[12 15:54:43.660]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:904.0ms
+	RemoveAll:904
+
+[12 15:55:04.081]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:827.0ms
+	RemoveAll:827
+
+[12 15:55:24.267]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,266.0ms
+	RemoveAll:1266
+
+[12 15:55:45.951]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:813.0ms
+	RemoveAll:813
+
+[12 15:56:05.950]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:942.0ms
+	RemoveAll:942
+
+[12 15:56:26.745]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,061.0ms
+	RemoveAll:1060
+
+[12 15:56:48.570]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,078.0ms
+	RemoveAll:1078
+
+[12 15:57:09.084]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,044.0ms
+	RemoveAll:1044
+
+[12 15:57:30.113]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:957.0ms
+	RemoveAll:957
+
+[12 15:57:52.311]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:978.0ms
+	RemoveAll:978
+
+[12 15:58:14.027]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:714.0ms
+	RemoveAll:714
+
+[12 15:58:39.470]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:872.0ms
+	RemoveAll:872
+
+[12 15:58:58.362]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:470.0ms
+	RemoveAll:470
+
+[12 15:59:20.467]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:564.0ms
+	RemoveAll:564
+
+[12 15:59:40.373]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 16:00:00.746]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:905.0ms
+	RemoveAll:905
+
+[12 16:00:20.870]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,126.0ms
+	RemoveAll:1126
+
+[12 16:00:50.230]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:647.0ms
+	RemoveAll:647
+
+[12 16:01:15.720]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:375.0ms
+	RemoveAll:375
+
+[12 16:01:36.219]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:228.0ms
+	RemoveAll:228
+
+[12 16:02:02.083]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:203.0ms
+	RemoveAll:203
+
+[12 16:02:22.956]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:351.0ms
+	RemoveAll:351
+
+[12 16:02:42.940]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:986.0ms
+	RemoveAll:986
+
+[12 16:03:03.423]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:903.0ms
+	RemoveAll:903
+
+[12 16:03:23.469]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:986.0ms
+	RemoveAll:986
+
+[12 16:03:43.546]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:781.0ms
+	RemoveAll:780
+
+[12 16:04:07.461]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:701.0ms
+	RemoveAll:701
+
+[12 16:04:28.911]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:640.0ms
+	RemoveAll:640
+
+[12 16:04:51.032]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:917.0ms
+	RemoveAll:917
+
+[12 16:05:10.766]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:867.0ms
+	RemoveAll:866
+
+[12 16:05:33.199]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:817.0ms
+	RemoveAll:817
+
+[12 16:05:54.352]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:461.0ms
+	RemoveAll:461
+
+[12 16:06:14.227]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:655.0ms
+	RemoveAll:655
+
+[12 16:06:33.945]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:647.0ms
+	RemoveAll:647
+
+[12 16:06:53.383]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:447.0ms
+	RemoveAll:447
+
+[12 16:07:13.429]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:627.0ms
+	RemoveAll:627
+
+[12 16:07:47.452]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:189.0ms
+	RemoveAll:189
+
+[12 16:08:06.609]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:526.0ms
+	RemoveAll:526
+
+[12 16:08:25.657]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:604.0ms
+	RemoveAll:604
+
+[12 16:08:53.503]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:793.0ms
+	RemoveAll:793
+
+[12 16:09:17.496]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:814.0ms
+	RemoveAll:814
+
+[12 16:09:39.757]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:775.0ms
+	RemoveAll:775
+
+[12 16:09:59.273]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:478.0ms
+	RemoveAll:478
+
+[12 16:10:19.178]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:693.0ms
+	RemoveAll:693
+
+[12 16:10:41.767]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:922.0ms
+	RemoveAll:922
+
+[12 16:11:01.439]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:681.0ms
+	RemoveAll:681
+
+[12 16:11:20.159]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:346.0ms
+	RemoveAll:346
+
+[12 16:11:42.217]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:805.0ms
+	RemoveAll:805
+
+[12 16:12:01.811]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:314.0ms
+	RemoveAll:314
+
+[12 16:12:22.933]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:685.0ms
+	RemoveAll:685
+
+[12 16:12:43.557]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:913.0ms
+	RemoveAll:913
+
+[12 16:13:04.024]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:699.0ms
+	RemoveAll:698
+
+[12 16:13:25.989]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:574.0ms
+	RemoveAll:574
+
+[12 16:13:45.551]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:735.0ms
+	RemoveAll:735
+
+[12 16:14:07.407]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:409.0ms
+	RemoveAll:409
+
+[12 16:14:27.609]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:168.0ms
+	RemoveAll:168
+
+[12 16:14:52.085]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:679.0ms
+	RemoveAll:679
+
+[12 16:15:15.938]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,034.0ms
+	RemoveAll:1034
+
+[12 16:15:35.204]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:587.0ms
+	RemoveAll:586
+
+[12 16:15:56.888]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:517.0ms
+	RemoveAll:517
+
+[12 16:16:20.085]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:591.0ms
+	RemoveAll:591
+
+[12 16:16:39.335]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:699.0ms
+	RemoveAll:699
+
+[12 16:16:58.867]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:454.0ms
+	RemoveAll:454
+
+[12 16:17:22.126]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:317.0ms
+	RemoveAll:317
+
+[12 16:17:42.625]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:417.0ms
+	RemoveAll:417
+
+[12 16:18:02.109]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:612.0ms
+	RemoveAll:612
+
+[12 16:18:37.365]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:179.0ms
+	RemoveAll:179
+
+[12 16:19:00.968]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:664.0ms
+	RemoveAll:664
+
+[12 16:19:25.772]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:377.0ms
+	RemoveAll:377
+
+[12 16:20:05.802]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:444.0ms
+	RemoveAll:444
+
+[12 16:20:47.376]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:447.0ms
+	RemoveAll:447
+
+[12 16:21:07.593]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:136.0ms
+	RemoveAll:136
+
+[12 16:21:26.657]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:653.0ms
+	RemoveAll:653
+
+[12 16:21:50.431]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:771.0ms
+	RemoveAll:771
+
+[12 16:22:09.292]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:606.0ms
+	RemoveAll:606
+
+[12 16:22:40.944]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:141.0ms
+	RemoveAll:141
+
+[12 16:23:02.893]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:430.0ms
+	RemoveAll:430
+
+[12 16:23:21.972]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:520.0ms
+	RemoveAll:520
+
+[12 16:23:45.715]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:680.0ms
+	RemoveAll:680
+
+[12 16:24:05.715]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:439.0ms
+	RemoveAll:439
+
+[12 16:24:25.839]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:220.0ms
+	RemoveAll:220
+
+[12 16:24:47.554]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:187.0ms
+	RemoveAll:187
+
+[12 16:25:11.328]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:47.0ms
+	RemoveAll:47
+
+[12 16:25:34.385]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:403.0ms
+	RemoveAll:403
+
+[12 16:25:53.589]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:294.0ms
+	RemoveAll:294
+
+[12 16:26:17.441]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:98.0ms
+	RemoveAll:98
+
+[12 16:26:37.534]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:408.0ms
+	RemoveAll:408
+
+[12 16:26:56.363]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:382.0ms
+	RemoveAll:382
+
+[12 16:27:17.423]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:342.0ms
+	RemoveAll:342
+
+[12 16:27:38.234]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:554.0ms
+	RemoveAll:554
+
+[12 16:27:57.593]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:682.0ms
+	RemoveAll:682
+
+[12 16:28:16.391]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:443.0ms
+	RemoveAll:443
+
+[12 16:28:37.202]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:711.0ms
+	RemoveAll:711
+
+[12 16:29:02.443]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:324.0ms
+	RemoveAll:324
+
+[12 16:29:23.004]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:488.0ms
+	RemoveAll:488
+
+[12 16:29:44.610]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:558.0ms
+	RemoveAll:558
+
+[12 16:30:03.486]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:359.0ms
+	RemoveAll:359
+
+[12 16:30:26.386]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:661.0ms
+	RemoveAll:661
+
+[12 16:30:45.730]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:421.0ms
+	RemoveAll:421
+
+[12 16:31:05.028]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:625.0ms
+	RemoveAll:625
+
+[12 16:31:24.855]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:409.0ms
+	RemoveAll:409
+
+[12 16:31:46.149]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:383.0ms
+	RemoveAll:383
+
+[12 16:32:07.069]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:933.0ms
+	RemoveAll:933
+
+[12 16:32:48.518]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:198.0ms
+	RemoveAll:198
+
+[12 16:33:08.564]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:700.0ms
+	RemoveAll:700
+
+[12 16:33:28.314]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:719.0ms
+	RemoveAll:719
+
+[12 16:33:54.007]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:813.0ms
+	RemoveAll:813
+
+[12 16:34:16.362]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:497.0ms
+	RemoveAll:497
+
+[12 16:34:37.594]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:509.0ms
+	RemoveAll:509
+
+[12 16:34:59.730]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:615.0ms
+	RemoveAll:615
+
+[12 16:35:19.293]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:882.0ms
+	RemoveAll:882
+
+[12 16:35:39.557]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:607.0ms
+	RemoveAll:607
+
+[12 16:36:09.135]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:281.0ms
+	RemoveAll:280
+
+[12 16:36:28.728]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:859.0ms
+	RemoveAll:859
+
+[12 16:36:52.862]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:648.0ms
+	RemoveAll:648
+
+[12 16:37:12.830]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:397.0ms
+	RemoveAll:397
+
+[12 16:37:32.829]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:788.0ms
+	RemoveAll:788
+
+[12 16:37:55.620]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:852.0ms
+	RemoveAll:852
+
+[12 16:38:16.134]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,082.0ms
+	RemoveAll:1082
+
+[12 16:38:38.037]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:860.0ms
+	RemoveAll:860
+
+[12 16:38:59.752]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:590.0ms
+	RemoveAll:590
+
+[12 16:39:19.580]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,092.0ms
+	RemoveAll:1092
+
+[12 16:39:42.621]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:516.0ms
+	RemoveAll:516
+
+[12 16:40:01.778]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:659.0ms
+	RemoveAll:659
+
+[12 16:40:21.184]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:715.0ms
+	RemoveAll:715
+
+[12 16:40:40.747]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:796.0ms
+	RemoveAll:796
+
+[12 16:41:02.119]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:548.0ms
+	RemoveAll:548
+
+[12 16:41:21.915]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:409.0ms
+	RemoveAll:409
+
+[12 16:41:42.086]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:577.0ms
+	RemoveAll:577
+
+[12 16:42:05.720]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:927.0ms
+	RemoveAll:927
+
+[12 16:42:48.932]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:396.0ms
+	RemoveAll:396
+
+[12 16:43:07.886]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:534.0ms
+	RemoveAll:534
+
+[12 16:43:27.152]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:329.0ms
+	RemoveAll:329
+
+[12 16:43:48.867]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:560.0ms
+	RemoveAll:560
+
+[12 16:44:08.274]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:878.0ms
+	RemoveAll:878
+
+[12 16:44:28.024]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:907.0ms
+	RemoveAll:907
+
+[12 16:44:47.867]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:798.0ms
+	RemoveAll:798
+
+[12 16:45:08.194]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:997.0ms
+	RemoveAll:997
+
+[12 16:45:27.506]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:434.0ms
+	RemoveAll:434
+
+[12 16:45:46.663]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:507.0ms
+	RemoveAll:507
+
+[12 16:46:06.428]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:703.0ms
+	RemoveAll:703
+
+[12 16:46:26.443]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:233.0ms
+	RemoveAll:233
+
+[12 16:46:45.741]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:408.0ms
+	RemoveAll:408
+
+[12 16:47:05.241]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:726.0ms
+	RemoveAll:726
+
+[12 16:47:29.311]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:696.0ms
+	RemoveAll:696
+
+[12 16:47:51.338]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:698.0ms
+	RemoveAll:698
+
+[12 16:48:11.868]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:466.0ms
+	RemoveAll:466
+
+[12 16:48:31.274]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:406.0ms
+	RemoveAll:406
+
+[12 16:48:52.350]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:631.0ms
+	RemoveAll:631
+
+[12 16:49:11.819]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:924.0ms
+	RemoveAll:924
+
+[12 16:49:32.286]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,066.0ms
+	RemoveAll:1065
+
+[12 16:49:51.958]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,101.0ms
+	RemoveAll:1101
+
+[12 16:50:12.113]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:805.0ms
+	RemoveAll:804
+
+[12 16:50:31.925]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:883.0ms
+	RemoveAll:883
+
+[12 16:50:51.830]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,071.0ms
+	RemoveAll:1071
+
+[12 16:51:12.110]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:891.0ms
+	RemoveAll:891
+
+[12 16:51:34.060]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:578.0ms
+	RemoveAll:578
+
+[12 16:51:54.777]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:642.0ms
+	RemoveAll:642
+
+[12 16:52:13.933]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:330.0ms
+	RemoveAll:330
+
+[12 16:52:33.823]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:888.0ms
+	RemoveAll:888
+
+[12 16:52:52.777]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:614.0ms
+	RemoveAll:614
+
+[12 16:53:11.732]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:444.0ms
+	RemoveAll:444
+
+[12 16:53:36.692]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:517.0ms
+	RemoveAll:517
+
+[12 16:53:56.956]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:880.0ms
+	RemoveAll:880
+
+[12 16:54:16.674]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:737.0ms
+	RemoveAll:737
+
+[12 16:54:36.096]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:655.0ms
+	RemoveAll:655
+
+[12 16:54:55.815]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:596.0ms
+	RemoveAll:596
+
+[12 16:55:16.220]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:486.0ms
+	RemoveAll:486
+
+[12 16:55:36.001]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,113.0ms
+	RemoveAll:1113
+
+[12 16:55:55.937]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:472.0ms
+	RemoveAll:472
+
+[12 16:56:27.995]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:173.0ms
+	RemoveAll:173
+
+[12 16:56:57.464]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:806.0ms
+	RemoveAll:806
+
+[12 16:57:18.243]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:313.0ms
+	RemoveAll:313
+
+[12 16:57:37.509]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:397.0ms
+	RemoveAll:397
+
+[12 16:57:57.103]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:889.0ms
+	RemoveAll:888
+
+[12 16:58:17.929]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:814.0ms
+	RemoveAll:813
+
+[12 16:58:38.692]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:409.0ms
+	RemoveAll:409
+
+[12 16:58:58.037]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:766.0ms
+	RemoveAll:766
+
+[12 16:59:21.671]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,210.0ms
+	RemoveAll:1210
+
+[12 16:59:44.665]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:952.0ms
+	RemoveAll:952
+
+[12 17:00:05.803]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,199.0ms
+	RemoveAll:1199
+
+[12 17:00:29.281]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:618.0ms
+	RemoveAll:618
+
+[12 17:00:58.640]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:139.0ms
+	RemoveAll:139
+
+[12 17:01:22.555]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:101.0ms
+	RemoveAll:101
+
+[12 17:01:57.952]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:126.0ms
+	RemoveAll:126
+
+[12 17:02:18.746]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:553.0ms
+	RemoveAll:553
+
+[12 17:02:55.703]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:105.0ms
+	RemoveAll:105
+
+[12 17:03:18.994]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:104.0ms
+	RemoveAll:104
+
+[12 17:03:38.775]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,093.0ms
+	RemoveAll:1093
+
+[12 17:03:59.413]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 17:04:21.534]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:552.0ms
+	RemoveAll:551
+
+[12 17:04:42.672]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:799.0ms
+	RemoveAll:799
+
+[12 17:05:06.213]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:319.0ms
+	RemoveAll:319
+
+[12 17:05:28.505]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:566.0ms
+	RemoveAll:566
+
+[12 17:05:50.330]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:383.0ms
+	RemoveAll:383
+
+[12 17:06:19.236]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:58.0ms
+	RemoveAll:58
+
+[12 17:06:57.971]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:92.0ms
+	RemoveAll:92
+
+[12 17:07:23.821]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:313.0ms
+	RemoveAll:313
+
+[12 17:07:46.784]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:269.0ms
+	RemoveAll:269
+
+[12 17:08:12.290]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:268.0ms
+	RemoveAll:268
+
+[12 17:08:52.054]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:96.0ms
+	RemoveAll:96
+
+[12 17:09:22.958]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:96.0ms
+	RemoveAll:96
+
+[12 17:09:45.656]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:238.0ms
+	RemoveAll:238
+
+[12 17:10:12.862]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:563.0ms
+	RemoveAll:563
+
+[12 17:10:37.199]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:339.0ms
+	RemoveAll:339
+
+[12 17:11:04.857]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:398.0ms
+	RemoveAll:398
+
+[12 17:11:25.683]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:723.0ms
+	RemoveAll:723
+
+[12 17:11:50.534]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:164.0ms
+	RemoveAll:164
+
+[12 17:12:17.366]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:692.0ms
+	RemoveAll:692
+
+[12 17:12:42.763]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:440.0ms
+	RemoveAll:440
+
+[12 17:13:02.950]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:231.0ms
+	RemoveAll:231
+
+[12 17:13:23.292]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:124.0ms
+	RemoveAll:124
+
+[12 17:13:52.573]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:233.0ms
+	RemoveAll:233
+
+[12 17:14:17.346]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:136.0ms
+	RemoveAll:136
+
+[12 17:14:37.517]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:51.0ms
+	RemoveAll:51
+
+[12 17:15:03.585]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:184.0ms
+	RemoveAll:184
+
+[12 17:15:58.668]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:508.0ms
+	RemoveAll:508
+
+[12 17:16:20.883]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:311.0ms
+	RemoveAll:311
+
+[12 17:16:40.851]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:437.0ms
+	RemoveAll:437
+
+[12 17:17:11.146]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:523.0ms
+	RemoveAll:523
+
+[12 17:17:43.064]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:134.0ms
+	RemoveAll:134
+
+[12 17:18:10.239]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:222.0ms
+	RemoveAll:222
+
+[12 17:18:30.363]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:91.0ms
+	RemoveAll:91
+
+[12 17:18:52.000]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:378.0ms
+	RemoveAll:378
+
+[12 17:19:18.801]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:189.0ms
+	RemoveAll:189
+
+[12 17:19:42.014]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:139.0ms
+	RemoveAll:139
+
+[12 17:20:14.400]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:135.0ms
+	RemoveAll:135
+
+[12 17:20:58.688]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:162.0ms
+	RemoveAll:162
+
+[12 17:21:20.403]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:184.0ms
+	RemoveAll:184
+
+[12 17:21:41.651]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:268.0ms
+	RemoveAll:268
+
+[12 17:22:06.829]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:211.0ms
+	RemoveAll:211
+
+[12 17:22:32.663]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:47.0ms
+	RemoveAll:47
+
+[12 17:23:05.064]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:129.0ms
+	RemoveAll:129
+
+[12 17:23:44.470]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:424.0ms
+	RemoveAll:424
+
+[12 17:24:12.596]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:94.0ms
+	RemoveAll:93
+
+[12 17:24:57.727]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:92.0ms
+	RemoveAll:92
+
+[12 17:25:23.904]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:254.0ms
+	RemoveAll:254
+
+[12 17:25:46.961]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:697.0ms
+	RemoveAll:697
+
+[12 17:26:10.283]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:438.0ms
+	RemoveAll:438
+
+[12 17:26:36.881]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:334.0ms
+	RemoveAll:334
+
+[12 17:26:58.799]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:279.0ms
+	RemoveAll:279
+
+[12 17:27:23.120]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:126.0ms
+	RemoveAll:126
+
+[12 17:27:43.790]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:101.0ms
+	RemoveAll:101
+
+[12 17:28:47.718]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:113.0ms
+	RemoveAll:113
+
+[12 17:29:06.860]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:626.0ms
+	RemoveAll:626
+
+[12 17:29:26.219]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:441.0ms
+	RemoveAll:440
+
+[12 17:29:46.952]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:535.0ms
+	RemoveAll:535
+
+[12 17:30:07.497]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:383.0ms
+	RemoveAll:383
+
+[12 17:30:26.763]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:384.0ms
+	RemoveAll:384
+
+[12 17:31:17.744]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:188.0ms
+	RemoveAll:188
+
+[12 17:31:36.636]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:393.0ms
+	RemoveAll:393
+
+[12 17:31:56.338]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:663.0ms
+	RemoveAll:663
+
+[12 17:32:19.068]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:416.0ms
+	RemoveAll:416
+
+[12 17:32:40.830]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:309.0ms
+	RemoveAll:309
+
+[12 17:33:00.548]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:656.0ms
+	RemoveAll:656
+
+[12 17:33:20.064]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:875.0ms
+	RemoveAll:875
+
+[12 17:33:39.517]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:881.0ms
+	RemoveAll:881
+
+[12 17:34:00.639]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,226.0ms
+	RemoveAll:1226
+
+[12 17:34:21.153]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:857.0ms
+	RemoveAll:856
+
+[12 17:34:41.324]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:527.0ms
+	RemoveAll:527
+
+[12 17:35:06.362]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:860.0ms
+	RemoveAll:860
+
+[12 17:35:27.110]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:750.0ms
+	RemoveAll:750
+
+[12 17:35:47.484]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:902.0ms
+	RemoveAll:902
+
+[12 17:36:08.762]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,145.0ms
+	RemoveAll:1145
+
+[12 17:36:29.276]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,030.0ms
+	RemoveAll:1030
+
+[12 17:36:49.681]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,029.0ms
+	RemoveAll:1029
+
+[12 17:37:09.166]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:957.0ms
+	RemoveAll:957
+
+[12 17:37:30.772]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:793.0ms
+	RemoveAll:793
+
+[12 17:37:50.303]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:845.0ms
+	RemoveAll:845
+
+[12 17:38:09.522]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:724.0ms
+	RemoveAll:724
+
+[12 17:38:29.646]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:959.0ms
+	RemoveAll:959
+
+[12 17:38:50.036]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,047.0ms
+	RemoveAll:1047
+
+[12 17:39:09.832]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:501.0ms
+	RemoveAll:501
+
+[12 17:39:29.972]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,349.0ms
+	RemoveAll:1349
+
+[12 17:39:50.142]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,268.0ms
+	RemoveAll:1268
+
+[12 17:40:09.814]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:778.0ms
+	RemoveAll:778
+
+[12 17:40:29.626]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:941.0ms
+	RemoveAll:941
+
+[12 17:40:49.516]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,000.0ms
+	RemoveAll:999
+
+[12 17:41:10.639]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:979.0ms
+	RemoveAll:979
+
+[12 17:41:31.465]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,070.0ms
+	RemoveAll:1070
+
+[12 17:41:51.448]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:910.0ms
+	RemoveAll:910
+
+[12 17:42:11.728]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,234.0ms
+	RemoveAll:1234
+
+[12 17:42:31.228]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:637.0ms
+	RemoveAll:637
+
+[12 17:42:51.009]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,122.0ms
+	RemoveAll:1122
+
+[12 17:43:11.024]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,252.0ms
+	RemoveAll:1252
+
+[12 17:43:30.930]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,047.0ms
+	RemoveAll:1047
+
+[12 17:43:51.256]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,325.0ms
+	RemoveAll:1325
+
+[12 17:44:11.661]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,213.0ms
+	RemoveAll:1213
+
+[12 17:44:32.066]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:865.0ms
+	RemoveAll:865
+
+[12 17:44:53.064]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:809.0ms
+	RemoveAll:809
+
+[12 17:45:13.765]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:807.0ms
+	RemoveAll:807
+
+[12 17:45:33.702]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:829.0ms
+	RemoveAll:829
+
+[12 17:45:53.717]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:763.0ms
+	RemoveAll:763
+
+[12 17:46:13.653]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:873.0ms
+	RemoveAll:873
+
+[12 17:46:35.462]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,035.0ms
+	RemoveAll:1035
+
+[12 17:46:55.633]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:670.0ms
+	RemoveAll:670
+
+[12 17:47:15.601]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:582.0ms
+	RemoveAll:582
+
+[12 17:47:48.158]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:498.0ms
+	RemoveAll:498
+
+[12 17:48:09.515]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:458.0ms
+	RemoveAll:458
+
+[12 17:48:38.094]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:91.0ms
+	RemoveAll:91
+
+[12 17:48:57.110]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:491.0ms
+	RemoveAll:491
+
+[12 17:49:16.345]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:690.0ms
+	RemoveAll:690
+
+[12 17:49:36.968]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:464.0ms
+	RemoveAll:464
+
+[12 17:49:58.465]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:500.0ms
+	RemoveAll:500
+
+[12 17:50:18.386]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:647.0ms
+	RemoveAll:647
+
+[12 17:50:42.676]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:591.0ms
+	RemoveAll:591
+
+[12 17:51:07.464]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:549.0ms
+	RemoveAll:549
+
+[12 17:51:27.261]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:709.0ms
+	RemoveAll:709
+
+[12 17:51:51.066]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:405.0ms
+	RemoveAll:405
+
+[12 17:52:11.081]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:457.0ms
+	RemoveAll:457
+
+[12 17:52:34.029]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:185.0ms
+	RemoveAll:184
+
+[12 17:52:55.744]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:324.0ms
+	RemoveAll:324
+
+[12 17:53:17.958]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:496.0ms
+	RemoveAll:496
+
+[12 17:53:37.068]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:503.0ms
+	RemoveAll:503
+
+[12 17:53:56.537]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:138.0ms
+	RemoveAll:138
+
+[12 17:54:16.646]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:568.0ms
+	RemoveAll:568
+
+[12 17:54:36.723]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:772.0ms
+	RemoveAll:772
+
+[12 17:54:56.753]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:497.0ms
+	RemoveAll:497
+
+[12 17:55:16.519]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:456.0ms
+	RemoveAll:456
+
+[12 17:55:40.699]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:453.0ms
+	RemoveAll:452
+
+[12 17:56:03.662]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:680.0ms
+	RemoveAll:680
+
+[12 17:56:26.719]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:156.0ms
+	RemoveAll:156
+
+[12 17:56:45.673]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:229.0ms
+	RemoveAll:229
+
+[12 17:57:11.896]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:410.0ms
+	RemoveAll:410
+
+[12 17:57:31.615]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:337.0ms
+	RemoveAll:337
+
+[12 17:57:51.021]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:544.0ms
+	RemoveAll:544
+
+[12 17:58:10.771]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:732.0ms
+	RemoveAll:732
+
+[12 17:58:30.708]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:418.0ms
+	RemoveAll:418
+
+[12 17:58:51.253]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:233.0ms
+	RemoveAll:233
+
+[12 17:59:10.613]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:496.0ms
+	RemoveAll:495
+
+[12 17:59:30.768]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:406.0ms
+	RemoveAll:406
+
+[12 17:59:49.535]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:446.0ms
+	RemoveAll:446
+
+[12 18:00:09.409]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:990.0ms
+	RemoveAll:990
+
+[12 18:00:29.221]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:900.0ms
+	RemoveAll:900
+
+[12 18:00:47.957]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:452.0ms
+	RemoveAll:452
+
+[12 18:01:09.142]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,022.0ms
+	RemoveAll:1022
+
+[12 18:01:29.734]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:901.0ms
+	RemoveAll:901
+
+[12 18:01:49.951]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:899.0ms
+	RemoveAll:898
+
+[12 18:02:09.794]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,000.0ms
+	RemoveAll:1000
+
+[12 18:02:42.383]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:553.0ms
+	RemoveAll:552
+
+[12 18:03:02.023]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:449.0ms
+	RemoveAll:449
+
+[12 18:03:24.191]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,434.0ms
+	RemoveAll:1434
+
+[12 18:03:43.254]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:440.0ms
+	RemoveAll:440
+
+[12 18:04:03.487]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:472.0ms
+	RemoveAll:472
+
+[12 18:04:25.125]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:771.0ms
+	RemoveAll:771
+
+[12 18:04:45.046]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:408.0ms
+	RemoveAll:408
+
+[12 18:05:04.156]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:493.0ms
+	RemoveAll:493
+
+[12 18:05:23.297]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:585.0ms
+	RemoveAll:585
+
+[12 18:05:43.967]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:410.0ms
+	RemoveAll:410
+
+[12 18:06:04.310]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:277.0ms
+	RemoveAll:277
+
+[12 18:06:28.693]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:813.0ms
+	RemoveAll:813
+
+[12 18:06:47.709]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:511.0ms
+	RemoveAll:511
+
+[12 18:07:07.084]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:551.0ms
+	RemoveAll:551
+
+[12 18:07:26.631]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:717.0ms
+	RemoveAll:717
+
+[12 18:07:46.771]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:630.0ms
+	RemoveAll:630
+
+[12 18:08:10.342]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:592.0ms
+	RemoveAll:592
+
+[12 18:08:29.562]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:677.0ms
+	RemoveAll:677
+
+[12 18:08:58.453]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:676.0ms
+	RemoveAll:676
+
+[12 18:09:17.344]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:256.0ms
+	RemoveAll:256
+
+[12 18:09:36.236]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:332.0ms
+	RemoveAll:331
+
+[12 18:09:55.221]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:56.0ms
+	RemoveAll:56
+
+[12 18:10:14.331]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:349.0ms
+	RemoveAll:349
+
+[12 18:10:33.051]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:321.0ms
+	RemoveAll:320
+
+[12 18:10:51.740]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:275.0ms
+	RemoveAll:275
+
+[12 18:11:10.928]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:453.0ms
+	RemoveAll:453
+
+[12 18:11:31.208]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:945.0ms
+	RemoveAll:945
+
+[12 18:11:51.738]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:721.0ms
+	RemoveAll:721
+
+[12 18:12:13.438]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:839.0ms
+	RemoveAll:839
+
+[12 18:12:35.480]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:727.0ms
+	RemoveAll:727
+
+[12 18:12:55.651]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:669.0ms
+	RemoveAll:669
+
+[12 18:13:15.635]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:241.0ms
+	RemoveAll:241
+
+[12 18:13:37.272]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:501.0ms
+	RemoveAll:501
+
+[12 18:13:57.224]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:764.0ms
+	RemoveAll:764
+
+[12 18:14:16.662]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:998.0ms
+	RemoveAll:998
+
+[12 18:14:36.771]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,135.0ms
+	RemoveAll:1135
+
+[12 18:14:56.364]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:845.0ms
+	RemoveAll:845
+
+[12 18:15:17.424]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:944.0ms
+	RemoveAll:944
+
+[12 18:15:36.581]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:633.0ms
+	RemoveAll:633
+
+[12 18:15:55.582]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:634.0ms
+	RemoveAll:634
+
+[12 18:16:15.566]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:633.0ms
+	RemoveAll:633
+
+[12 18:16:37.733]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:502.0ms
+	RemoveAll:502
+
+[12 18:17:01.757]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:631.0ms
+	RemoveAll:631
+
+[12 18:17:20.867]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:726.0ms
+	RemoveAll:726
+
+[12 18:17:40.398]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:632.0ms
+	RemoveAll:632
+
+[12 18:18:00.039]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:640.0ms
+	RemoveAll:640
+
+[12 18:18:19.695]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:454.0ms
+	RemoveAll:454
+
+[12 18:18:39.601]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:587.0ms
+	RemoveAll:587
+
+[12 18:18:59.335]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:583.0ms
+	RemoveAll:583
+
+[12 18:19:20.114]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:800.0ms
+	RemoveAll:800
+
+[12 18:19:39.380]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:629.0ms
+	RemoveAll:629
+
+[12 18:19:58.958]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:997.0ms
+	RemoveAll:997
+
+[12 18:20:18.926]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:677.0ms
+	RemoveAll:677
+
+[12 18:20:38.520]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:772.0ms
+	RemoveAll:772
+
+[12 18:20:58.269]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:712.0ms
+	RemoveAll:711
+
+[12 18:21:21.186]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,163.0ms
+	RemoveAll:1163
+
+[12 18:21:40.826]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:851.0ms
+	RemoveAll:851
+
+[12 18:21:59.967]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:636.0ms
+	RemoveAll:636
+
+[12 18:22:21.963]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:730.0ms
+	RemoveAll:730
+
+[12 18:22:42.914]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:358.0ms
+	RemoveAll:358
+
+[12 18:23:01.946]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:586.0ms
+	RemoveAll:586
+
+[12 18:23:22.211]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:590.0ms
+	RemoveAll:590
+
+[12 18:23:41.820]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:371.0ms
+	RemoveAll:371
+
+[12 18:24:11.117]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:321.0ms
+	RemoveAll:320
+
+[12 18:24:30.866]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:502.0ms
+	RemoveAll:502
+
+[12 18:24:51.162]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:410.0ms
+	RemoveAll:409
+
+[12 18:25:10.038]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:455.0ms
+	RemoveAll:455
+
+[12 18:25:29.679]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:230.0ms
+	RemoveAll:230
+
+[12 18:25:48.898]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:675.0ms
+	RemoveAll:675
+
+[12 18:26:08.866]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:816.0ms
+	RemoveAll:816
+
+[12 18:26:31.033]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:501.0ms
+	RemoveAll:500
+
+[12 18:26:50.377]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:564.0ms
+	RemoveAll:564
+
+[12 18:27:11.266]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,298.0ms
+	RemoveAll:1298
+
+[12 18:27:30.797]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:989.0ms
+	RemoveAll:989
+
+[12 18:27:50.172]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:544.0ms
+	RemoveAll:544
+
+[12 18:28:11.217]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:454.0ms
+	RemoveAll:454
+
+[12 18:28:32.105]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:592.0ms
+	RemoveAll:592
+
+[12 18:28:52.073]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:849.0ms
+	RemoveAll:849
+
+[12 18:29:12.743]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:986.0ms
+	RemoveAll:986
+
+[12 18:29:33.023]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:945.0ms
+	RemoveAll:945
+
+[12 18:29:52.960]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:775.0ms
+	RemoveAll:775
+
+[12 18:30:12.273]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:548.0ms
+	RemoveAll:548
+
+[12 18:30:34.409]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:904.0ms
+	RemoveAll:904
+
+[12 18:30:58.277]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 18:31:17.809]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:582.0ms
+	RemoveAll:582
+
+[12 18:31:37.792]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:670.0ms
+	RemoveAll:669
+
+[12 18:31:59.102]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:860.0ms
+	RemoveAll:860
+
+[12 18:32:18.961]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:813.0ms
+	RemoveAll:813
+
+[12 18:32:40.426]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:822.0ms
+	RemoveAll:821
+
+[12 18:32:59.646]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:375.0ms
+	RemoveAll:375
+
+[12 18:33:19.505]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:659.0ms
+	RemoveAll:659
+
+[12 18:33:39.566]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:451.0ms
+	RemoveAll:451
+
+[12 18:33:59.035]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:588.0ms
+	RemoveAll:588
+
+[12 18:34:19.736]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:477.0ms
+	RemoveAll:477
+
+[12 18:34:39.501]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:990.0ms
+	RemoveAll:990
+
+[12 18:35:04.524]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:851.0ms
+	RemoveAll:851
+
+[12 18:35:26.270]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:450.0ms
+	RemoveAll:450
+
+[12 18:35:46.426]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:177.0ms
+	RemoveAll:177
+
+[12 18:36:09.295]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:778.0ms
+	RemoveAll:778
+
+[12 18:36:34.052]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:856.0ms
+	RemoveAll:856
+
+[12 18:36:55.097]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:823.0ms
+	RemoveAll:823
+
+[12 18:37:19.402]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,355.0ms
+	RemoveAll:1354
+
+[12 18:37:46.936]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:870.0ms
+	RemoveAll:870
+
+[12 18:38:06.561]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:733.0ms
+	RemoveAll:733
+
+[12 18:38:27.153]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:974.0ms
+	RemoveAll:974
+
+[12 18:38:47.074]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:756.0ms
+	RemoveAll:756
+
+[12 18:39:10.895]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:656.0ms
+	RemoveAll:656
+
+[12 18:39:30.504]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:539.0ms
+	RemoveAll:539
+
+[12 18:39:50.254]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:811.0ms
+	RemoveAll:811
+
+[12 18:40:10.628]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:764.0ms
+	RemoveAll:764
+
+[12 18:40:30.986]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:837.0ms
+	RemoveAll:837
+
+[12 18:40:57.880]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:796.0ms
+	RemoveAll:796
+
+[12 18:41:18.737]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,192.0ms
+	RemoveAll:1192
+
+[12 18:41:57.113]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:655.0ms
+	RemoveAll:655
+
+[12 18:42:16.208]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:371.0ms
+	RemoveAll:371
+
+[12 18:42:36.582]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:342.0ms
+	RemoveAll:342
+
+[12 18:43:02.727]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:733.0ms
+	RemoveAll:733
+
+[12 18:43:22.071]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:779.0ms
+	RemoveAll:779
+
+[12 18:43:41.665]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:525.0ms
+	RemoveAll:525
+
+[12 18:44:02.834]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:482.0ms
+	RemoveAll:482
+
+[12 18:44:24.783]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:975.0ms
+	RemoveAll:975
+
+[12 18:44:45.375]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:937.0ms
+	RemoveAll:937
+
+[12 18:45:04.875]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:901.0ms
+	RemoveAll:901
+
+[12 18:45:26.091]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,250.0ms
+	RemoveAll:1249
+
+[12 18:45:45.623]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:648.0ms
+	RemoveAll:648
+
+[12 18:46:05.279]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:618.0ms
+	RemoveAll:618
+
+[12 18:46:26.682]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:773.0ms
+	RemoveAll:773
+
+[12 18:46:47.711]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:252.0ms
+	RemoveAll:252
+
+[12 18:47:06.961]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:380.0ms
+	RemoveAll:380
+
+[12 18:47:26.321]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:634.0ms
+	RemoveAll:634
+
+[12 18:47:45.805]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:620.0ms
+	RemoveAll:620
+
+[12 18:48:11.716]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:367.0ms
+	RemoveAll:367
+
+[12 18:48:33.666]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:529.0ms
+	RemoveAll:529
+
+[12 18:49:00.310]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:327.0ms
+	RemoveAll:327
+
+[12 18:49:21.417]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:660.0ms
+	RemoveAll:660
+
+[12 18:49:41.869]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:777.0ms
+	RemoveAll:777
+
+[12 18:50:02.492]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,336.0ms
+	RemoveAll:1336
+
+[12 18:50:22.585]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:874.0ms
+	RemoveAll:874
+
+[12 18:50:43.707]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,020.0ms
+	RemoveAll:1020
+
+[12 18:51:03.941]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:884.0ms
+	RemoveAll:884
+
+[12 18:51:25.828]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,158.0ms
+	RemoveAll:1158
+
+[12 18:51:46.498]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,006.0ms
+	RemoveAll:1006
+
+[12 18:52:06.434]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,329.0ms
+	RemoveAll:1329
+
+[12 18:52:26.839]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,491.0ms
+	RemoveAll:1491
+
+[12 18:52:47.525]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:788.0ms
+	RemoveAll:788
+
+[12 18:53:07.087]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:973.0ms
+	RemoveAll:973
+
+[12 18:53:26.853]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:825.0ms
+	RemoveAll:825
+
+[12 18:53:47.772]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:953.0ms
+	RemoveAll:953
+
+[12 18:54:07.179]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:744.0ms
+	RemoveAll:744
+
+[12 18:54:27.412]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,051.0ms
+	RemoveAll:1051
+
+[12 18:54:50.063]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:887.0ms
+	RemoveAll:887
+
+[12 18:55:10.016]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:960.0ms
+	RemoveAll:960
+
+[12 18:55:29.547]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:938.0ms
+	RemoveAll:937
+
+[12 18:55:48.594]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:415.0ms
+	RemoveAll:415
+
+[12 18:56:09.046]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,419.0ms
+	RemoveAll:1419
+
+[12 18:56:33.117]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,491.0ms
+	RemoveAll:1491
+
+[12 18:56:52.820]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,200.0ms
+	RemoveAll:1199
+
+[12 18:57:13.100]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,155.0ms
+	RemoveAll:1155
+
+[12 18:57:33.411]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:583.0ms
+	RemoveAll:583
+
+[12 18:57:55.859]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,254.0ms
+	RemoveAll:1254
+
+[12 18:58:16.233]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,152.0ms
+	RemoveAll:1152
+
+[12 18:58:36.295]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,222.0ms
+	RemoveAll:1222
+
+[12 18:58:58.400]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:602.0ms
+	RemoveAll:602
+
+[12 18:59:18.852]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,023.0ms
+	RemoveAll:1023
+
+[12 18:59:39.428]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,284.0ms
+	RemoveAll:1284
+
+[12 18:59:59.131]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:726.0ms
+	RemoveAll:726
+
+[12 19:00:19.801]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,505.0ms
+	RemoveAll:1505
+
+[12 19:00:40.034]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,414.0ms
+	RemoveAll:1414
+
+[12 19:01:00.533]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,717.0ms
+	RemoveAll:1717
+
+[12 19:01:24.993]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,514.0ms
+	RemoveAll:1514
+
+[12 19:01:45.710]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,129.0ms
+	RemoveAll:1129
+
+[12 19:02:06.302]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,343.0ms
+	RemoveAll:1343
+
+[12 19:02:26.473]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,246.0ms
+	RemoveAll:1246
+
+[12 19:02:46.894]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,469.0ms
+	RemoveAll:1468
+
+[12 19:03:07.642]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,498.0ms
+	RemoveAll:1498
+
+[12 19:03:27.469]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,089.0ms
+	RemoveAll:1089
+
+[12 19:03:47.843]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,317.0ms
+	RemoveAll:1317
+
+[12 19:04:08.684]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,354.0ms
+	RemoveAll:1354
+
+[12 19:04:29.183]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,441.0ms
+	RemoveAll:1441
+
+[12 19:04:52.567]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,121.0ms
+	RemoveAll:1121
+
+[12 19:05:13.237]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,257.0ms
+	RemoveAll:1257
+
+[12 19:05:33.299]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,425.0ms
+	RemoveAll:1425
+
+[12 19:05:55.950]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,450.0ms
+	RemoveAll:1450
+
+[12 19:06:15.809]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,101.0ms
+	RemoveAll:1101
+
+[12 19:06:36.916]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,654.0ms
+	RemoveAll:1653
+
+[12 19:06:57.633]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,374.0ms
+	RemoveAll:1374
+
+[12 19:07:18.412]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,298.0ms
+	RemoveAll:1298
+
+[12 19:07:38.458]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,094.0ms
+	RemoveAll:1094
+
+[12 19:07:58.348]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:761.0ms
+	RemoveAll:761
+
+[12 19:08:19.611]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,143.0ms
+	RemoveAll:1143
+
+[12 19:08:39.236]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:727.0ms
+	RemoveAll:727
+
+[12 19:08:58.751]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:975.0ms
+	RemoveAll:975
+
+[12 19:09:25.958]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:401.0ms
+	RemoveAll:401
+
+[12 19:09:46.409]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:597.0ms
+	RemoveAll:597
+
+[12 19:10:16.752]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:519.0ms
+	RemoveAll:519
+
+[12 19:10:36.626]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:778.0ms
+	RemoveAll:778
+
+[12 19:10:56.360]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:952.0ms
+	RemoveAll:952
+
+[12 19:11:16.359]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,094.0ms
+	RemoveAll:1094
+
+[12 19:11:36.858]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:977.0ms
+	RemoveAll:977
+
+[12 19:11:57.091]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:849.0ms
+	RemoveAll:848
+
+[12 19:12:17.605]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,078.0ms
+	RemoveAll:1078
+
+[12 19:12:38.821]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,665.0ms
+	RemoveAll:1665
+
+[12 19:12:59.351]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,161.0ms
+	RemoveAll:1161
+
+[12 19:13:19.818]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,452.0ms
+	RemoveAll:1452
+
+[12 19:13:40.550]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,039.0ms
+	RemoveAll:1039
+
+[12 19:14:02.874]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,057.0ms
+	RemoveAll:1057
+
+[12 19:14:22.436]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:829.0ms
+	RemoveAll:829
+
+[12 19:14:42.872]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:936.0ms
+	RemoveAll:936
+
+[12 19:15:02.856]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,358.0ms
+	RemoveAll:1357
+
+[12 19:15:23.120]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:950.0ms
+	RemoveAll:950
+
+[12 19:15:23.978]  **************** Exception ***************
+Object reference not set to an instance of an object.
+   at HedgeHog.Alice.Store.TradingMacro.<>c__DisplayClass8e3.<StrategyEnterUniversal>b__5a8(Int32 levels) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacro.Strategies.cs:line 423
+   at HedgeHog.Alice.Store.TradingMacro.<>c__DisplayClass8e3.<StrategyEnterUniversal>b__5a9() in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacro.Strategies.cs:line 441
+   at HedgeHog.Alice.Client.RemoteControlModel.ShowChart(TradingMacro tm) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Client\RemoteControl\RemoteControlModel.cs:line 1072
+[12 19:15:43.775]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,272.0ms
+	RemoveAll:1272
+
+[12 19:16:03.743]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:863.0ms
+	RemoveAll:863
+
+[12 19:16:25.521]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:899.0ms
+	RemoveAll:899
+
+[12 19:16:46.378]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:709.0ms
+	RemoveAll:709
+
+[12 19:17:06.361]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:224.0ms
+	RemoveAll:224
+
+[12 19:17:25.924]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:714.0ms
+	RemoveAll:714
+
+[12 19:17:45.814]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:854.0ms
+	RemoveAll:854
+
+[12 19:18:05.470]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:897.0ms
+	RemoveAll:897
+
+[12 19:18:25.391]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:699.0ms
+	RemoveAll:699
+
+[12 19:18:45.297]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:762.0ms
+	RemoveAll:762
+
+[12 19:19:08.416]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:493.0ms
+	RemoveAll:493
+
+[12 19:19:27.588]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:862.0ms
+	RemoveAll:861
+
+[12 19:19:47.385]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:818.0ms
+	RemoveAll:818
+
+[12 19:20:07.057]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:906.0ms
+	RemoveAll:906
+
+[12 19:20:27.867]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,074.0ms
+	RemoveAll:1074
+
+[12 19:20:50.627]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:991.0ms
+	RemoveAll:991
+
+[12 19:21:10.985]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,024.0ms
+	RemoveAll:1024
+
+[12 19:21:30.907]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:765.0ms
+	RemoveAll:765
+
+[12 19:21:50.266]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 19:22:10.390]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,173.0ms
+	RemoveAll:1173
+
+[12 19:22:30.124]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,208.0ms
+	RemoveAll:1208
+
+[12 19:22:51.668]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:369.0ms
+	RemoveAll:369
+
+[12 19:23:14.038]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:983.0ms
+	RemoveAll:983
+
+[12 19:23:33.492]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:805.0ms
+	RemoveAll:805
+
+[12 19:23:53.132]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:815.0ms
+	RemoveAll:815
+
+[12 19:24:13.818]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:632.0ms
+	RemoveAll:632
+
+[12 19:24:33.209]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:903.0ms
+	RemoveAll:903
+
+[12 19:24:54.019]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:941.0ms
+	RemoveAll:941
+
+[12 19:25:14.003]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:806.0ms
+	RemoveAll:806
+
+[12 19:25:36.139]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,040.0ms
+	RemoveAll:1040
+
+[12 19:25:56.606]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:815.0ms
+	RemoveAll:815
+
+[12 19:26:16.216]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:450.0ms
+	RemoveAll:450
+
+[12 19:26:43.453]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:851.0ms
+	RemoveAll:851
+
+[12 19:27:04.950]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:850.0ms
+	RemoveAll:850
+
+[12 19:27:28.459]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:825.0ms
+	RemoveAll:825
+
+[12 19:27:48.209]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:811.0ms
+	RemoveAll:811
+
+[12 19:28:07.834]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:945.0ms
+	RemoveAll:945
+
+[12 19:28:28.332]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,428.0ms
+	RemoveAll:1427
+
+[12 19:28:48.690]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:859.0ms
+	RemoveAll:859
+
+[12 19:29:10.405]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,322.0ms
+	RemoveAll:1322
+
+[12 19:29:30.608]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:767.0ms
+	RemoveAll:767
+
+[12 19:29:52.931]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:639.0ms
+	RemoveAll:639
+
+[12 19:30:14.678]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,206.0ms
+	RemoveAll:1206
+
+[12 19:30:34.599]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,039.0ms
+	RemoveAll:1039
+
+[12 19:30:54.785]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:537.0ms
+	RemoveAll:537
+
+[12 19:31:14.831]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,311.0ms
+	RemoveAll:1311
+
+[12 19:31:36.375]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:730.0ms
+	RemoveAll:730
+
+[12 19:31:57.809]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,410.0ms
+	RemoveAll:1410
+
+[12 19:32:03.800]  **************** Exception ***************
+[USD/JPY] _rateArrayLocker was busy for more then 3000 ms. RatesArray.Count:0
+   at HedgeHog.Alice.Store.TradingMacro.UseRates[T](Func`2 func, Int32 timeoutInMilliseconds) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Store\TradingMacro\TradingMacroExtentions.cs:line 3202
+   at HedgeHog.Alice.Client.RemoteControlModel.<UpdateTradingStatistics>b__b9(TradingMacro tm) in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Client\RemoteControl\RemoteControlModel.cs:line 701
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at HedgeHog.Alice.Client.RemoteControlModel.UpdateTradingStatistics() in c:\Users\dimon\Documents\Visual Studio 2013\Projects\AllInOne\HedgeHog.Alice.Client\RemoteControl\RemoteControlModel.cs:line 701
+[12 19:32:25.983]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:912.0ms
+	RemoveAll:912
+
+[12 19:32:50.615]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:631.0ms
+	RemoveAll:631
+
+[12 19:33:10.365]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:770.0ms
+	RemoveAll:770
+
+[12 19:33:29.896]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,131.0ms
+	RemoveAll:1131
+
+[12 19:33:49.334]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:722.0ms
+	RemoveAll:722
+
+[12 19:34:08.928]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,026.0ms
+	RemoveAll:1026
+
+[12 19:34:29.192]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,081.0ms
+	RemoveAll:1081
+
+[12 19:34:49.300]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:717.0ms
+	RemoveAll:716
+
+[12 19:35:12.435]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,119.0ms
+	RemoveAll:1119
+
+[12 19:35:33.012]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,173.0ms
+	RemoveAll:1173
+
+[12 19:35:55.507]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:905.0ms
+	RemoveAll:905
+
+[12 19:36:15.444]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:903.0ms
+	RemoveAll:903
+
+[12 19:36:35.147]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,035.0ms
+	RemoveAll:1035
+
+[12 19:36:54.335]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:494.0ms
+	RemoveAll:494
+
+[12 19:37:15.364]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:712.0ms
+	RemoveAll:712
+
+[12 19:37:35.519]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:762.0ms
+	RemoveAll:762
+
+[12 19:37:56.017]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:998.0ms
+	RemoveAll:998
+
+[12 19:38:15.439]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:804.0ms
+	RemoveAll:803
+
+[12 19:38:36.437]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:967.0ms
+	RemoveAll:967
+
+[12 19:39:00.898]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:840.0ms
+	RemoveAll:839
+
+[12 19:39:21.006]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:734.0ms
+	RemoveAll:734
+
+[12 19:39:44.375]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,043.0ms
+	RemoveAll:1043
+
+[12 19:40:03.953]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:981.0ms
+	RemoveAll:981
+
+[12 19:40:24.030]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:587.0ms
+	RemoveAll:587
+
+[12 19:40:44.154]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:281.0ms
+	RemoveAll:281
+
+[12 19:41:06.057]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:637.0ms
+	RemoveAll:637
+
+[12 19:41:26.727]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:678.0ms
+	RemoveAll:678
+
+[12 19:41:46.476]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,042.0ms
+	RemoveAll:1042
+
+[12 19:42:06.366]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:975.0ms
+	RemoveAll:975
+
+[12 19:42:36.397]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:761.0ms
+	RemoveAll:761
+
+[12 19:42:56.536]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:551.0ms
+	RemoveAll:551
+
+[12 19:43:17.971]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:551.0ms
+	RemoveAll:551
+
+[12 19:43:38.984]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:684.0ms
+	RemoveAll:684
+
+[12 19:44:06.627]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:362.0ms
+	RemoveAll:362
+
+[12 19:44:26.689]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:718.0ms
+	RemoveAll:718
+
+[12 19:44:46.158]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:491.0ms
+	RemoveAll:491
+
+[12 19:45:06.469]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:667.0ms
+	RemoveAll:667
+
+[12 19:45:26.671]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,394.0ms
+	RemoveAll:1394
+
+[12 19:45:48.448]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,587.0ms
+	RemoveAll:1587
+
+[12 19:46:08.619]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,337.0ms
+	RemoveAll:1336
+
+[12 19:46:28.853]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,468.0ms
+	RemoveAll:1468
+
+[12 19:46:48.930]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,334.0ms
+	RemoveAll:1334
+
+[12 19:47:10.208]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,348.0ms
+	RemoveAll:1348
+
+[12 19:47:30.317]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,326.0ms
+	RemoveAll:1326
+
+[12 19:47:50.004]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:997.0ms
+	RemoveAll:997
+
+[12 19:48:09.675]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:857.0ms
+	RemoveAll:857
+
+[12 19:48:30.002]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,261.0ms
+	RemoveAll:1261
+
+[12 19:48:50.937]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,831.0ms
+	RemoveAll:1831
+
+[12 19:49:11.935]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,650.0ms
+	RemoveAll:1650
+
+[12 19:49:32.605]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,566.0ms
+	RemoveAll:1566
+
+[12 19:49:54.741]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,772.0ms
+	RemoveAll:1772
+
+[12 19:50:16.441]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,582.0ms
+	RemoveAll:1582
+
+[12 19:50:37.673]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,666.0ms
+	RemoveAll:1666
+
+[12 19:50:59.247]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,651.0ms
+	RemoveAll:1651
+
+[12 19:51:19.169]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,347.0ms
+	RemoveAll:1347
+
+[12 19:51:40.042]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,441.0ms
+	RemoveAll:1441
+
+[12 19:52:00.275]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,302.0ms
+	RemoveAll:1302
+
+[12 19:52:21.007]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,529.0ms
+	RemoveAll:1529
+
+[12 19:52:41.381]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,438.0ms
+	RemoveAll:1438
+
+[12 19:53:01.786]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,142.0ms
+	RemoveAll:1142
+
+[12 19:53:22.159]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,485.0ms
+	RemoveAll:1485
+
+[12 19:53:42.127]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,220.0ms
+	RemoveAll:1220
+
+[12 19:54:02.189]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,340.0ms
+	RemoveAll:1340
+
+[12 19:54:22.453]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,568.0ms
+	RemoveAll:1568
+
+[12 19:54:44.247]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,256.0ms
+	RemoveAll:1255
+
+[12 19:55:05.166]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,406.0ms
+	RemoveAll:1406
+
+[12 19:55:26.367]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,672.0ms
+	RemoveAll:1672
+
+[12 19:55:47.006]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,587.0ms
+	RemoveAll:1587
+
+[12 19:56:06.927]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,216.0ms
+	RemoveAll:1216
+
+[12 19:56:27.503]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,391.0ms
+	RemoveAll:1391
+
+[12 19:56:48.657]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,666.0ms
+	RemoveAll:1666
+
+[12 19:57:09.530]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,884.0ms
+	RemoveAll:1884
+
+[12 19:57:30.122]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,306.0ms
+	RemoveAll:1306
+
+[12 19:57:50.293]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,231.0ms
+	RemoveAll:1231
+
+[12 19:58:12.039]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,651.0ms
+	RemoveAll:1651
+
+[12 19:58:33.707]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,205.0ms
+	RemoveAll:1205
+
+[12 19:58:53.894]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,150.0ms
+	RemoveAll:1150
+
+[12 19:59:13.846]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,339.0ms
+	RemoveAll:1339
+
+[12 19:59:33.877]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,363.0ms
+	RemoveAll:1363
+
+[12 19:59:54.110]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,474.0ms
+	RemoveAll:1474
+
+[12 20:00:14.374]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,480.0ms
+	RemoveAll:1480
+
+[12 20:00:34.249]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,032.0ms
+	RemoveAll:1032
+
+[12 20:00:55.403]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,338.0ms
+	RemoveAll:1338
+
+[12 20:01:16.041]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,148.0ms
+	RemoveAll:1148
+
+[12 20:01:36.977]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,313.0ms
+	RemoveAll:1313
+
+[12 20:01:58.224]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,027.0ms
+	RemoveAll:1027
+
+[12 20:02:18.909]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,249.0ms
+	RemoveAll:1249
+
+[12 20:02:39.533]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,293.0ms
+	RemoveAll:1293
+
+[12 20:03:00.000]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,483.0ms
+	RemoveAll:1483
+
+[12 20:03:22.682]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,130.0ms
+	RemoveAll:1130
+
+[12 20:03:42.884]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,494.0ms
+	RemoveAll:1494
+
+[12 20:04:03.289]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,385.0ms
+	RemoveAll:1385
+
+[12 20:04:23.304]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,268.0ms
+	RemoveAll:1268
+
+[12 20:04:43.584]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:891.0ms
+	RemoveAll:891
+
+[12 20:05:04.036]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,032.0ms
+	RemoveAll:1032
+
+[12 20:05:25.143]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,855.0ms
+	RemoveAll:1855
+
+[12 20:05:45.563]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,358.0ms
+	RemoveAll:1358
+
+[12 20:06:05.562]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,155.0ms
+	RemoveAll:1155
+
+[12 20:06:27.371]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:494.0ms
+	RemoveAll:494
+
+[12 20:06:47.355]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:855.0ms
+	RemoveAll:855
+
+[12 20:07:08.930]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,073.0ms
+	RemoveAll:1073
+
+[12 20:07:30.473]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,081.0ms
+	RemoveAll:1081
+
+[12 20:07:50.956]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,482.0ms
+	RemoveAll:1482
+
+[12 20:08:10.690]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,037.0ms
+	RemoveAll:1037
+
+[12 20:08:30.908]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,255.0ms
+	RemoveAll:1255
+
+[12 20:08:50.735]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:854.0ms
+	RemoveAll:854
+
+[12 20:09:10.204]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:637.0ms
+	RemoveAll:637
+
+[12 20:09:29.829]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:958.0ms
+	RemoveAll:958
+
+[12 20:09:50.515]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,047.0ms
+	RemoveAll:1047
+
+[12 20:10:12.136]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:809.0ms
+	RemoveAll:809
+
+[12 20:10:33.742]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:768.0ms
+	RemoveAll:768
+
+[12 20:10:53.196]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:945.0ms
+	RemoveAll:945
+
+[12 20:11:14.396]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,176.0ms
+	RemoveAll:1176
+
+[12 20:11:33.631]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:638.0ms
+	RemoveAll:637
+
+[12 20:11:52.460]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:404.0ms
+	RemoveAll:404
+
+[12 20:12:12.974]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,168.0ms
+	RemoveAll:1168
+
+[12 20:12:34.034]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:737.0ms
+	RemoveAll:737
+
+[12 20:12:55.391]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:852.0ms
+	RemoveAll:852
+
+[12 20:13:15.109]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,081.0ms
+	RemoveAll:1081
+
+[12 20:13:35.389]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:942.0ms
+	RemoveAll:942
+
+[12 20:13:55.700]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:498.0ms
+	RemoveAll:498
+
+[12 20:14:15.528]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,130.0ms
+	RemoveAll:1130
+
+[12 20:14:38.756]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,085.0ms
+	RemoveAll:1085
+
+[12 20:15:00.394]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:589.0ms
+	RemoveAll:589
+
+[12 20:15:19.566]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:641.0ms
+	RemoveAll:641
+
+[12 20:15:39.082]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:590.0ms
+	RemoveAll:590
+
+[12 20:15:59.315]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:540.0ms
+	RemoveAll:540
+
+[12 20:16:19.002]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,122.0ms
+	RemoveAll:1122
+
+[12 20:16:41.419]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,219.0ms
+	RemoveAll:1219
+
+[12 20:17:02.994]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,129.0ms
+	RemoveAll:1129
+
+[12 20:17:23.524]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,184.0ms
+	RemoveAll:1184
+
+[12 20:17:44.568]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,162.0ms
+	RemoveAll:1162
+
+[12 20:18:04.568]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,221.0ms
+	RemoveAll:1221
+
+[12 20:18:24.161]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:950.0ms
+	RemoveAll:950
+
+[12 20:18:43.536]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:635.0ms
+	RemoveAll:635
+
+[12 20:19:03.333]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:907.0ms
+	RemoveAll:907
+
+[12 20:19:27.528]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,002.0ms
+	RemoveAll:1002
+
+[12 20:19:47.216]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:799.0ms
+	RemoveAll:799
+
+[12 20:20:08.588]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:650.0ms
+	RemoveAll:649
+
+[12 20:20:28.868]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:604.0ms
+	RemoveAll:604
+
+[12 20:20:50.037]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,561.0ms
+	RemoveAll:1561
+
+[12 20:21:11.191]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,400.0ms
+	RemoveAll:1400
+
+[12 20:21:31.533]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,196.0ms
+	RemoveAll:1196
+
+[12 20:21:51.642]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,306.0ms
+	RemoveAll:1306
+
+[12 20:22:11.828]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,432.0ms
+	RemoveAll:1431
+
+[12 20:22:32.108]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:853.0ms
+	RemoveAll:853
+
+[12 20:22:52.591]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,460.0ms
+	RemoveAll:1460
+
+[12 20:23:13.276]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,207.0ms
+	RemoveAll:1207
+
+[12 20:23:33.385]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,266.0ms
+	RemoveAll:1266
+
+[12 20:23:53.228]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:827.0ms
+	RemoveAll:827
+
+[12 20:24:13.274]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,266.0ms
+	RemoveAll:1266
+
+[12 20:24:44.864]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:898.0ms
+	RemoveAll:898
+
+[12 20:25:05.425]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:966.0ms
+	RemoveAll:966
+
+[12 20:25:24.816]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:905.0ms
+	RemoveAll:905
+
+[12 20:25:44.768]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,161.0ms
+	RemoveAll:1161
+
+[12 20:26:10.446]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:633.0ms
+	RemoveAll:633
+
+[12 20:26:32.177]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,031.0ms
+	RemoveAll:1031
+
+[12 20:26:52.254]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,262.0ms
+	RemoveAll:1262
+
+[12 20:27:12.425]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,223.0ms
+	RemoveAll:1223
+
+[12 20:27:32.284]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,217.0ms
+	RemoveAll:1217
+
+[12 20:28:00.738]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,004.0ms
+	RemoveAll:1004
+
+[12 20:28:21.096]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:992.0ms
+	RemoveAll:992
+
+[12 20:28:41.641]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:719.0ms
+	RemoveAll:719
+
+[12 20:29:01.157]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:721.0ms
+	RemoveAll:721
+
+[12 20:29:20.938]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:722.0ms
+	RemoveAll:722
+
+[12 20:29:40.937]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:971.0ms
+	RemoveAll:971
+
+[12 20:30:01.170]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:944.0ms
+	RemoveAll:944
+
+[12 20:30:21.201]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:820.0ms
+	RemoveAll:820
+
+[12 20:30:44.492]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:461.0ms
+	RemoveAll:461
+
+[12 20:31:04.709]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:912.0ms
+	RemoveAll:912
+
+[12 20:31:24.365]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:843.0ms
+	RemoveAll:843
+
+[12 20:31:44.240]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:838.0ms
+	RemoveAll:838
+
+[12 20:32:04.645]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,235.0ms
+	RemoveAll:1235
+
+[12 20:32:27.748]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:765.0ms
+	RemoveAll:765
+
+[12 20:32:48.808]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:856.0ms
+	RemoveAll:856
+
+[12 20:33:08.854]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,074.0ms
+	RemoveAll:1074
+
+[12 20:33:28.947]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:725.0ms
+	RemoveAll:725
+
+[12 20:33:49.087]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:378.0ms
+	RemoveAll:378
+
+[12 20:34:10.381]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:768.0ms
+	RemoveAll:768
+
+[12 20:34:30.021]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:805.0ms
+	RemoveAll:805
+
+[12 20:34:54.061]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:542.0ms
+	RemoveAll:542
+
+[12 20:35:13.717]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:975.0ms
+	RemoveAll:975
+
+[12 20:35:36.134]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,135.0ms
+	RemoveAll:1135
+
+[12 20:35:56.976]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:990.0ms
+	RemoveAll:989
+
+[12 20:36:16.897]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,177.0ms
+	RemoveAll:1177
+
+[12 20:36:36.943]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:988.0ms
+	RemoveAll:988
+
+[12 20:36:57.379]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:817.0ms
+	RemoveAll:817
+
+[12 20:37:16.286]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:553.0ms
+	RemoveAll:553
+
+[12 20:37:35.771]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:854.0ms
+	RemoveAll:854
+
+[12 20:37:55.957]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:765.0ms
+	RemoveAll:765
+
+[12 20:38:15.020]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:491.0ms
+	RemoveAll:491
+
+[12 20:38:36.970]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:506.0ms
+	RemoveAll:506
+
+[12 20:38:56.657]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:587.0ms
+	RemoveAll:587
+
+[12 20:39:16.017]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:968.0ms
+	RemoveAll:968
+
+[12 20:39:37.623]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,271.0ms
+	RemoveAll:1271
+
+[12 20:39:58.324]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:897.0ms
+	RemoveAll:897
+
+[12 20:40:18.760]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:721.0ms
+	RemoveAll:721
+
+[12 20:40:38.213]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:843.0ms
+	RemoveAll:843
+
+[12 20:40:59.382]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,044.0ms
+	RemoveAll:1044
+
+[12 20:41:19.538]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,085.0ms
+	RemoveAll:1085
+
+[12 20:41:40.176]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,257.0ms
+	RemoveAll:1257
+
+[12 20:42:09.239]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:623.0ms
+	RemoveAll:623
+
+[12 20:42:28.318]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:582.0ms
+	RemoveAll:582
+
+[12 20:42:49.612]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:448.0ms
+	RemoveAll:448
+
+[12 20:43:09.861]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:366.0ms
+	RemoveAll:366
+
+[12 20:43:29.330]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:362.0ms
+	RemoveAll:362
+
+[12 20:43:48.253]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:322.0ms
+	RemoveAll:322
+
+[12 20:44:08.876]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:801.0ms
+	RemoveAll:801
+
+[12 20:44:30.388]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:628.0ms
+	RemoveAll:628
+
+[12 20:44:53.055]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,006.0ms
+	RemoveAll:1006
+
+[12 20:45:13.288]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,009.0ms
+	RemoveAll:1009
+
+[12 20:45:32.804]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:953.0ms
+	RemoveAll:953
+
+[12 20:45:52.366]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:775.0ms
+	RemoveAll:775
+
+[12 20:46:13.286]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:579.0ms
+	RemoveAll:579
+
+[12 20:46:33.426]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:872.0ms
+	RemoveAll:872
+
+[12 20:46:53.441]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:565.0ms
+	RemoveAll:565
+
+[12 20:47:13.487]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:366.0ms
+	RemoveAll:366
+
+[12 20:47:34.374]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:644.0ms
+	RemoveAll:644
+
+[12 20:47:53.703]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:541.0ms
+	RemoveAll:541
+
+[12 20:48:13.000]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:232.0ms
+	RemoveAll:232
+
+[12 20:48:31.595]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:181.0ms
+	RemoveAll:181
+
+[12 20:48:51.189]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:585.0ms
+	RemoveAll:585
+
+[12 20:49:10.891]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:747.0ms
+	RemoveAll:747
+
+[12 20:49:31.655]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,115.0ms
+	RemoveAll:1115
+
+[12 20:49:56.288]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:504.0ms
+	RemoveAll:504
+
+[12 20:50:17.363]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,078.0ms
+	RemoveAll:1078
+
+[12 20:50:37.160]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:679.0ms
+	RemoveAll:679
+
+[12 20:50:56.301]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:740.0ms
+	RemoveAll:740
+
+[12 20:51:16.097]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:453.0ms
+	RemoveAll:453
+
+[12 20:51:35.863]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:899.0ms
+	RemoveAll:899
+
+[12 20:51:57.344]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:585.0ms
+	RemoveAll:585
+
+[12 20:52:18.716]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:847.0ms
+	RemoveAll:847
+
+[12 20:52:37.982]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:813.0ms
+	RemoveAll:813
+
+[12 20:53:01.241]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:589.0ms
+	RemoveAll:589
+
+[12 20:53:24.236]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:629.0ms
+	RemoveAll:629
+
+[12 20:53:44.329]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:452.0ms
+	RemoveAll:452
+
+[12 20:54:03.985]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:854.0ms
+	RemoveAll:854
+
+[12 20:54:25.840]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:454.0ms
+	RemoveAll:454
+
+[12 20:54:46.120]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:911.0ms
+	RemoveAll:911
+
+[12 20:55:06.447]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,195.0ms
+	RemoveAll:1195
+
+[12 20:55:26.587]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,165.0ms
+	RemoveAll:1165
+
+[12 20:55:46.493]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,033.0ms
+	RemoveAll:1033
+
+[12 20:56:06.273]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,080.0ms
+	RemoveAll:1080
+
+[12 20:56:28.263]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,271.0ms
+	RemoveAll:1271
+
+[12 20:56:49.502]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,559.0ms
+	RemoveAll:1559
+
+[12 20:57:09.066]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:817.0ms
+	RemoveAll:817
+
+[12 20:57:29.685]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:729.0ms
+	RemoveAll:729
+
+[12 20:57:49.587]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:941.0ms
+	RemoveAll:941
+
+[12 20:58:10.308]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,364.0ms
+	RemoveAll:1364
+
+[12 20:58:30.518]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,273.0ms
+	RemoveAll:1273
+
+[12 20:58:51.476]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,088.0ms
+	RemoveAll:1088
+
+[12 20:59:11.897]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,231.0ms
+	RemoveAll:1231
+
+[12 20:59:34.331]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,268.0ms
+	RemoveAll:1268
+
+[12 20:59:54.426]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,134.0ms
+	RemoveAll:1134
+
+[12 21:00:14.266]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:911.0ms
+	RemoveAll:911
+
+[12 21:00:34.028]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 21:00:54.194]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:818.0ms
+	RemoveAll:818
+
+[12 21:01:16.091]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:552.0ms
+	RemoveAll:552
+
+[12 21:01:37.178]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:449.0ms
+	RemoveAll:449
+
+[12 21:01:57.645]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,204.0ms
+	RemoveAll:1204
+
+[12 21:02:17.145]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:546.0ms
+	RemoveAll:546
+
+[12 21:02:37.488]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:949.0ms
+	RemoveAll:949
+
+[12 21:02:58.875]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:543.0ms
+	RemoveAll:543
+
+[12 21:03:20.918]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:901.0ms
+	RemoveAll:901
+
+[12 21:03:42.103]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:851.0ms
+	RemoveAll:851
+
+[12 21:04:02.976]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,032.0ms
+	RemoveAll:1032
+
+[12 21:04:24.005]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:404.0ms
+	RemoveAll:404
+
+[12 21:04:43.349]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:717.0ms
+	RemoveAll:717
+
+[12 21:05:02.802]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:863.0ms
+	RemoveAll:863
+
+[12 21:05:22.411]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:855.0ms
+	RemoveAll:855
+
+[12 21:05:42.098]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:864.0ms
+	RemoveAll:864
+
+[12 21:06:03.439]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,156.0ms
+	RemoveAll:1156
+
+[12 21:06:22.986]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:889.0ms
+	RemoveAll:889
+
+[12 21:06:42.548]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:726.0ms
+	RemoveAll:726
+
+[12 21:07:03.390]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:841.0ms
+	RemoveAll:841
+
+[12 21:07:23.951]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,222.0ms
+	RemoveAll:1222
+
+[12 21:07:44.324]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,307.0ms
+	RemoveAll:1307
+
+[12 21:08:04.636]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,068.0ms
+	RemoveAll:1068
+
+[12 21:08:24.947]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:983.0ms
+	RemoveAll:983
+
+[12 21:08:44.650]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:774.0ms
+	RemoveAll:773
+
+[12 21:09:04.992]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:819.0ms
+	RemoveAll:818
+
+[12 21:09:27.456]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:764.0ms
+	RemoveAll:764
+
+[12 21:09:48.813]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:453.0ms
+	RemoveAll:453
+
+[12 21:10:08.063]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:738.0ms
+	RemoveAll:738
+
+[12 21:10:29.326]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,293.0ms
+	RemoveAll:1293
+
+[12 21:10:50.667]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,092.0ms
+	RemoveAll:1092
+
+[12 21:11:11.337]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,272.0ms
+	RemoveAll:1272
+
+[12 21:11:31.398]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,303.0ms
+	RemoveAll:1302
+
+[12 21:11:51.257]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,035.0ms
+	RemoveAll:1034
+
+[12 21:12:13.472]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,671.0ms
+	RemoveAll:1671
+
+[12 21:12:36.029]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:547.0ms
+	RemoveAll:547
+
+[12 21:12:55.046]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:540.0ms
+	RemoveAll:540
+
+[12 21:13:14.546]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:768.0ms
+	RemoveAll:768
+
+[12 21:13:33.609]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:674.0ms
+	RemoveAll:674
+
+[12 21:13:53.140]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:767.0ms
+	RemoveAll:767
+
+[12 21:14:13.358]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:672.0ms
+	RemoveAll:672
+
+[12 21:14:32.920]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,135.0ms
+	RemoveAll:1135
+
+[12 21:14:52.686]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:544.0ms
+	RemoveAll:544
+
+[12 21:15:11.920]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:772.0ms
+	RemoveAll:772
+
+[12 21:15:31.358]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:894.0ms
+	RemoveAll:894
+
+[12 21:15:51.264]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:369.0ms
+	RemoveAll:369
+
+[12 21:16:12.308]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:980.0ms
+	RemoveAll:980
+
+[12 21:16:31.871]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:721.0ms
+	RemoveAll:721
+
+[12 21:16:52.197]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:598.0ms
+	RemoveAll:597
+
+[12 21:17:12.711]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,230.0ms
+	RemoveAll:1230
+
+[12 21:17:33.506]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:637.0ms
+	RemoveAll:637
+
+[12 21:17:52.492]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:456.0ms
+	RemoveAll:456
+
+[12 21:18:12.023]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:548.0ms
+	RemoveAll:548
+
+[12 21:18:32.677]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:776.0ms
+	RemoveAll:776
+
+[12 21:18:53.207]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:769.0ms
+	RemoveAll:769
+
+[12 21:19:14.423]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:404.0ms
+	RemoveAll:404
+
+[12 21:19:34.126]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:812.0ms
+	RemoveAll:812
+
+[12 21:19:53.985]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:722.0ms
+	RemoveAll:722
+
+[12 21:20:16.464]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:494.0ms
+	RemoveAll:494
+
+[12 21:20:37.119]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:593.0ms
+	RemoveAll:593
+
+[12 21:20:56.853]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,134.0ms
+	RemoveAll:1133
+
+[12 21:21:16.743]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:543.0ms
+	RemoveAll:543
+
+[12 21:21:45.946]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:140.0ms
+	RemoveAll:140
+
+[12 21:22:07.146]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:269.0ms
+	RemoveAll:269
+
+[12 21:22:27.442]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:539.0ms
+	RemoveAll:539
+
+[12 21:22:47.129]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:817.0ms
+	RemoveAll:817
+
+[12 21:23:11.013]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,423.0ms
+	RemoveAll:1423
+
+[12 21:23:31.995]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,218.0ms
+	RemoveAll:1218
+
+[12 21:23:52.774]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:550.0ms
+	RemoveAll:550
+
+[12 21:24:17.828]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:548.0ms
+	RemoveAll:548
+
+[12 21:24:37.780]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,045.0ms
+	RemoveAll:1045
+
+[12 21:24:59.340]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:955.0ms
+	RemoveAll:955
+
+[12 21:25:19.386]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:851.0ms
+	RemoveAll:851
+
+[12 21:25:38.901]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:805.0ms
+	RemoveAll:805
+
+[12 21:25:58.869]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:496.0ms
+	RemoveAll:496
+
+[12 21:26:19.602]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:808.0ms
+	RemoveAll:808
+
+[12 21:26:38.493]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:494.0ms
+	RemoveAll:494
+
+[12 21:26:57.869]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:273.0ms
+	RemoveAll:273
+
+[12 21:27:19.880]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:811.0ms
+	RemoveAll:811
+
+[12 21:27:39.567]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:673.0ms
+	RemoveAll:673
+
+[12 21:27:58.911]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:672.0ms
+	RemoveAll:672
+
+[12 21:28:17.912]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:454.0ms
+	RemoveAll:454
+
+[12 21:28:39.565]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:498.0ms
+	RemoveAll:498
+
+[12 21:28:58.441]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:407.0ms
+	RemoveAll:407
+
+[12 21:29:18.409]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,027.0ms
+	RemoveAll:1027
+
+[12 21:29:37.847]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:721.0ms
+	RemoveAll:721
+
+[12 21:29:59.328]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,146.0ms
+	RemoveAll:1146
+
+[12 21:30:20.544]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:943.0ms
+	RemoveAll:943
+
+[12 21:30:41.417]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:455.0ms
+	RemoveAll:455
+
+[12 21:31:01.541]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:634.0ms
+	RemoveAll:634
+
+[12 21:31:20.589]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:378.0ms
+	RemoveAll:378
+
+[12 21:31:40.182]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:767.0ms
+	RemoveAll:767
+
+[12 21:32:01.086]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:414.0ms
+	RemoveAll:414
+
+[12 21:32:20.617]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:720.0ms
+	RemoveAll:720
+
+[12 21:32:41.132]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:635.0ms
+	RemoveAll:635
+
+[12 21:33:01.864]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:810.0ms
+	RemoveAll:810
+
+[12 21:33:22.269]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:361.0ms
+	RemoveAll:361
+
+[12 21:33:41.722]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:804.0ms
+	RemoveAll:804
+
+[12 21:34:01.440]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:767.0ms
+	RemoveAll:767
+
+[12 21:34:20.519]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:540.0ms
+	RemoveAll:540
+
+[12 21:34:39.208]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:363.0ms
+	RemoveAll:363
+
+[12 21:34:58.006]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:90.0ms
+	RemoveAll:90
+
+[12 21:35:17.257]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:760.0ms
+	RemoveAll:760
+
+[12 21:35:37.771]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:675.0ms
+	RemoveAll:675
+
+[12 21:35:58.035]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:456.0ms
+	RemoveAll:456
+
+[12 21:36:18.331]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:447.0ms
+	RemoveAll:447
+
+[12 21:36:37.441]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:269.0ms
+	RemoveAll:269
+
+[12 21:36:55.896]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:136.0ms
+	RemoveAll:136
+
+[12 21:37:18.609]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:454.0ms
+	RemoveAll:454
+
+[12 21:37:40.917]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:285.0ms
+	RemoveAll:285
+
+[12 21:38:01.884]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:277.0ms
+	RemoveAll:277
+
+[12 21:38:21.649]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:317.0ms
+	RemoveAll:317
+
+[12 21:38:41.274]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:318.0ms
+	RemoveAll:318
+
+[12 21:39:07.388]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:538.0ms
+	RemoveAll:538
+
+[12 21:39:26.217]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:199.0ms
+	RemoveAll:198
+
+[12 21:39:46.997]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:51.0ms
+	RemoveAll:51
+
+[12 21:40:08.010]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,073.0ms
+	RemoveAll:1073
+
+[12 21:40:27.838]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:538.0ms
+	RemoveAll:538
+
+[12 21:40:48.648]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:546.0ms
+	RemoveAll:546
+
+[12 21:41:07.945]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:944.0ms
+	RemoveAll:944
+
+[12 21:41:28.288]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:641.0ms
+	RemoveAll:641
+
+[12 21:41:47.678]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:589.0ms
+	RemoveAll:589
+
+[12 21:42:09.238]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:955.0ms
+	RemoveAll:955
+
+[12 21:42:29.377]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,126.0ms
+	RemoveAll:1126
+
+[12 21:42:49.330]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:905.0ms
+	RemoveAll:905
+
+[12 21:43:14.727]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:762.0ms
+	RemoveAll:762
+
+[12 21:43:34.289]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:182.0ms
+	RemoveAll:182
+
+[12 21:43:58.188]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:448.0ms
+	RemoveAll:448
+
+[12 21:44:17.782]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:708.0ms
+	RemoveAll:708
+
+[12 21:44:37.313]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:862.0ms
+	RemoveAll:862
+
+[12 21:44:57.141]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,044.0ms
+	RemoveAll:1044
+
+[12 21:45:20.088]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:998.0ms
+	RemoveAll:998
+
+[12 21:45:40.212]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:911.0ms
+	RemoveAll:911
+
+[12 21:45:59.759]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:981.0ms
+	RemoveAll:981
+
+[12 21:46:19.478]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:1,076.0ms
+	RemoveAll:1076
+
+[12 21:46:41.567]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:586.0ms
+	RemoveAll:586
+
+[12 21:47:00.553]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:272.0ms
+	RemoveAll:272
+
+[12 21:47:20.380]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:675.0ms
+	RemoveAll:675
+
+[12 21:47:39.739]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:669.0ms
+	RemoveAll:668
+
+[12 21:48:05.978]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:712.0ms
+	RemoveAll:712
+
+[12 21:48:33.200]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:409.0ms
+	RemoveAll:409
+
+[12 21:48:53.496]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:420.0ms
+	RemoveAll:420
+
+[12 21:49:25.585]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:501.0ms
+	RemoveAll:501
+
+[12 21:49:44.976]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:271.0ms
+	RemoveAll:270
+
+[12 21:50:04.102]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:360.0ms
+	RemoveAll:360
+
+[12 21:50:25.864]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:271.0ms
+	RemoveAll:271
+
+[12 21:50:47.111]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:226.0ms
+	RemoveAll:226
+
+[12 21:52:04.721]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:453.0ms
+	RemoveAll:453
+
+[12 21:52:23.613]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:319.0ms
+	RemoveAll:319
+
+[12 21:52:48.386]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:319.0ms
+	RemoveAll:319
+
+[12 21:53:08.369]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:498.0ms
+	RemoveAll:498
+
+[12 21:53:27.901]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:717.0ms
+	RemoveAll:717
+
+[12 21:53:46.839]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:412.0ms
+	RemoveAll:412
+
+[12 21:54:11.549]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:456.0ms
+	RemoveAll:456
+
+[12 21:54:32.017]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:449.0ms
+	RemoveAll:449
+
+[12 21:54:59.098]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:178.0ms
+	RemoveAll:178
+
+[12 21:55:18.926]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:632.0ms
+	RemoveAll:632
+
+[12 21:55:49.876]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:605.0ms
+	RemoveAll:605
+
+[12 21:56:13.261]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:413.0ms
+	RemoveAll:413
+
+[12 21:56:39.266]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:408.0ms
+	RemoveAll:408
+
+[12 21:57:00.030]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:637.0ms
+	RemoveAll:637
+
+[12 21:57:27.314]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:144.0ms
+	RemoveAll:144
+
+[12 21:57:51.947]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:401.0ms
+	RemoveAll:401
+
+[12 21:58:10.807]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:559.0ms
+	RemoveAll:559
+
+[12 21:58:31.087]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:408.0ms
+	RemoveAll:408
+
+[12 21:58:50.166]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:633.0ms
+	RemoveAll:633
+
+[12 21:59:14.908]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:358.0ms
+	RemoveAll:358
+
+[12 21:59:33.643]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:359.0ms
+	RemoveAll:359
+
+[12 21:59:53.970]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:407.0ms
+	RemoveAll:407
+
+[12 22:00:17.042]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:676.0ms
+	RemoveAll:676
+
+[12 22:00:37.135]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:596.0ms
+	RemoveAll:596
+
+[12 22:00:56.433]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:237.0ms
+	RemoveAll:237
+
+[12 22:01:16.026]  **************** Exception ***************
+[USD/JPY]<LoadRates>b__4b9:935.0ms
+	RemoveAll:935
+
