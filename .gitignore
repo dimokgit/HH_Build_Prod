@@ -1,2 +1,5 @@
 !*.dll
 *.csv
+*.pdb
+*.txt
+*.xml
