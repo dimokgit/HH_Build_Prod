@@ -206,6 +206,13 @@
     .isLong{
       background-color:lightgray;
     }
+    /*strategiesDialog*/
+    #strategiesDialog .modal-body li{
+      cursor:pointer;
+    }
+    #strategiesDialog .modal-body li:hover{
+      text-decoration: underline;
+    }
   </style>
   <script>
     $(function () {
@@ -456,6 +463,9 @@
                 <input type="button" value=" Sell " id="sell" />
               </li>
               <li>
+                <button data-bind="click:showStrategies">Strategies</button>
+              </li>
+              <li>
                 <button data-bind="click:toggleClosedTrades">Trades</button>
                 <button data-bind="click:toggleClosedTrades2,text:showClosedTrades2Text"></button>
               </li>
@@ -516,7 +526,7 @@
   </div>
   <!--#endregion-->
   <!--#region Info Bar-->
-  <div style="background-color: whitesmoke;border-bottom:1px solid silver;width:100%;margin-left:1em">
+  <div style="background-color: whitesmoke;border-bottom:1px solid silver;width:100%;margin-left:0">
     <span id="profit" data-bind="text:profit,css:{profit:profit()>0,loss:profit()<0}"></span>
     <span id="openTradeGross" data-bind="text:openTradeGross,css:{profit:openTradeGross()>0,loss:openTradeGross()<0},visible:openTradeGross()!=0"></span>
     <span id="discussion"></span>
@@ -759,6 +769,28 @@
     </div>
   </div>
   <!--#endregion-->
+  <!--#region Strategies dialog-->
+  <div class="modal" data-bind="elementer:strategiesDialog" id="strategiesDialog" tabindex="-1" role="dialog" aria-labelledby="strategiesDialog" aria-hidden="true" c>
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <span class="modal-title" id="myModalLabel">Strategies</span>
+        </div>
+        <div class="modal-body">
+          <ul data-bind="foreach:strategies">
+            <li data-bind="text:name,click:$parent.setStrategy"></li>
+          </ul>
+        </div>
+        <div class="modal-footer" style="display:none">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Save changes</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--#endregion-->
+
   <!--#region Settings grid-->
   <!--#endregion-->
   <!--#endregion-->

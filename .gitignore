@@ -3,3 +3,4 @@
 *.txt
 *.xml
 *.pdb
+!Strategies/*.txt
