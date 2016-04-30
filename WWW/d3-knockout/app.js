@@ -39,6 +39,38 @@
     });
   });
   // #endregion
+  var scOptions = { 'disable_in_input': true };
+  $(function (e) {
+    shortcut.add("B", function () {
+      serverCall("toggleCanTrade", withNoNote(pair, true), function (d) {
+        d[0] ? showSuccess("Buy is on") : showError("Buy is off");
+      });
+    }, scOptions);
+    shortcut.add("S", function () {
+      serverCall("toggleCanTrade", withNoNote(pair, false), function (d) {
+        d[0] ? showSuccess("Sell is on") : showError("Sell is off");
+      });
+    }, scOptions);
+    shortcut.add("SHIFT+B", function () {
+      serverCall("setCanTrade", withNoNote(pair, false, true), showError.bind(null, "Buy is off"));
+    }, scOptions);
+    shortcut.add("SHIFT+S", function () {
+      serverCall("setCanTrade", withNoNote(pair, false, false), showError.bind(null, "Sell is off"));
+    }, scOptions);
+    shortcut.add("F", function () {
+      serverCall("flipTradeLevels", withNoNote(pair), "Flipped");
+    }, scOptions);
+    shortcut.add("C", function () {
+      dataViewModel.closeTrades();
+    }, scOptions);
+    shortcut.add("A", function () {
+      dataViewModel.toggleIsActive(0);
+    }, scOptions);
+    shortcut.add("M", function () {
+      dataViewModel.manualToggle();
+    }, scOptions);
+  });
+
 
   // #region Reset plotter
   var resetPlotterThrottleTime = 0.5 * 1000;
@@ -111,7 +143,12 @@
     return note;
   }
   // #endregion
-  function serverCall(name, args, done,fail) {
+  function withNoNote() {
+    var args = _.toArray(arguments);
+    args.noNote = true;
+    return args;
+  }
+  function serverCall(name, args, done, fail) {
     var method = chat.server[name];
     if (!method) {
       showErrorPerm("Server method " + name + " not found.");
@@ -157,8 +194,19 @@
     function lineChartDataEmpty() {
       return [{ d: new Date("1/1/1900"),do: new Date("1/1/1900"), c: 0, v: 0, m: 0 }];// jshint ignore:line
     }
+    // #endregion
+    this.isVirtual = ko.observable(true);
+    var inPause = this.inPause = ko.observable(true);
+    this.togglePause = togglePause;
+    function togglePause(chartNum) {
+      serverCall("togglePause", [pair, chartNum || 0], function (pause) {
+        inPause(pause);
+      });
+    }
     var lineChartData = ko.observableArray(lineChartDataEmpty());
+    this.clearChartData = function () { lineChartData(lineChartDataEmpty()); }
     var lineChartData2 = ko.observableArray(lineChartDataEmpty());
+    this.clearChartData2 = function () { lineChartData2(lineChartDataEmpty()); }
     // #region Server proxies
     function wrapTradeInCorridor() {
       serverCall("wrapTradeInCorridor", [pair], "<b>Close levels were reset to None.</b>");
@@ -174,8 +222,11 @@
         serverCall("flipTradeLevels", [pair], resetPlotter);
       });
     };
+    var tradePresetLevel = this.tradePresetLevel = ko.observable(0);
     this.setTradeLevels = function (l, isBuy) {
-      serverCall("setPresetTradeLevels", [pair, l, isBuy === undefined ? null : isBuy], resetPlotter);
+      serverCall("setPresetTradeLevels", [pair, l, isBuy === undefined ? null : isBuy], function () {
+        tradePresetLevel(l);
+      });
     };
     this.resetTradeLevels = function () { this.setTradeLevels(0); }.bind(this);
     function toggleIsActive(chartNum/*date, event*/) {
@@ -190,25 +241,57 @@
     function setTradeCount(tc) {
       chat.server.setTradeCount(pair, tc);
     }
-    // #region TradeLevel
-    function setTradeLevel(isBuy, data) {
-      serverCall("setTradeLevel", [pair, isBuy, parseTradeLevelBy(data.value)], resetPlotter);
+    this.setTradeRate = function setTradeLeve(isBuy, rate) {
+      var args = [pair, isBuy, rate];
+      args.noNote = true;
+      serverCall("setTradeRate", args);
     }
-    function setTradeCloseLevel(isBuy, data) {
-      serverCall("setTradeCloseLevel", [pair, isBuy, parseTradeLevelBy(data.value)], resetPlotter);
+    this.manualToggle = function () {
+      serverCall("manualToggle", [pair]);
     }
-    var tradeLevelBysRaw = ko.observable();
-    function parseTradeLevelBy(levelName) {
-      var l = parseInt(levelName);
-      if (!isNaN(l)) return l;
-      l = tradeLevelBysRaw()[levelName];
-      if (l === undefined) {
-        var error = "TradeLevelBy:" + levelName + " does not exist.";
-        showErrorPerm(error);
-        throw error;
-      }
-      return l;
+    // #endregion
+    // #region Buy/Sell
+    this.isQuickTrade = ko.observable(false);
+    this.toggleQuickTrade = function () {
+      this.isQuickTrade(!this.isQuickTrade());
+    }.bind(this);
+    this.sell = function () { serverCall("sell", [pair]); }
+    this.buy = function () { serverCall("buy", [pair]); }
+    var openTrades = ko.observable({});
+    this.canShowClose = ko.pureComputed(function () {
+      return Object.keys(openTrades()).length;
+    });
+    this.closeTrades = function () {
+      serverCall("closeTrades", [pair], resetPlotter);
     }
+    this.canShowBuyButton = ko.pureComputed(function () {
+      return !openTrades().buy;
+    });
+    this.canShowSellButton = ko.pureComputed(function () {
+      return !openTrades().sell;
+    });
+    // #endregion
+    // #region Start Stop Trades
+    var tradeLevels = ko.observable({});
+    this.showStopTrades = ko.pureComputed(function () {
+      return tradeLevels().canBuy || tradeLevels().canSell;
+    });
+    this.showBuyTrades = ko.pureComputed(function () {
+      return !tradeLevels().canBuy;
+    });
+    this.showSellTrades = ko.pureComputed(function () {
+      return !tradeLevels().canSell;
+    });
+    this.stopTrades = function () {
+      serverCall("stopTrades", [pair], resetPlotter);
+    }
+    this.startBuyTrades = function () {
+      serverCall("startTrades", [pair, true], resetPlotter);
+    }
+    this.startSellTrades = function () {
+      serverCall("startTrades", [pair, false], resetPlotter);
+    }
+
     // #endregion
     function moveCorridorWavesCount(chartIndex, step) {
       if (chartIndex !== 0) return alert("chartIndex:" + chartIndex + " is not supported");
@@ -267,9 +350,10 @@
             type: 'number',
             options: { step: 1, numberFormat: "n" }
           },
-          RatesDistanceMin: { options: { step: 0.1 }},
+          TipRatio: { options: { step: 0.1 } },
+          RatesDistanceMin: { options: { step: 0.1 } },
           DoAdjustExitLevelByTradeTime: { name: "Adjust Exit By Trade" },
-          MoveWrapTradeWithNewTrade:{name:"ForceWrapTrade"},
+          MoveWrapTradeWithNewTrade: { name: "ForceWrapTrade" },
           TradingRatioByPMC: { name: "Lot By PMC" },
           LimitProfitByRatesHeight: { name: "Limit Profit By Height" },
           FreezeCorridorOnTradeOpen: { name: "Freeze On TradeOpen" },
@@ -278,7 +362,7 @@
           TradingDistanceX: { name: "Trading DistanceX", type: 'number', options: { step: 0.1, numberFormat: "n" } },
           PriceCmaLevels_: { name: "PriceCmaLevels", type: 'number', options: { step: 0.001, numberFormat: "n" } },
           CorridorLengthDiff: { name: "CorridorLengthDiff", type: 'number', options: { step: 0.01, numberFormat: "n" } },
-          
+
           TradeDirection: {
             type: "options", options: [
               { text: "None", value: "None" },
@@ -287,28 +371,17 @@
               { text: "Both", value: "Both" },
               { text: "Auto", value: "Auto" }]
           },
-          TradingDistanceFunction: {
-            name: "Trading Distance", type: "options", options: [
-              { text: "BuySellLevels", value: "BuySellLevels" },
-              { text: "RatesHeight", value: "RatesHeight" },
-              { text: "Pips", value: "Pips" },
-              { text: "Green", value: "Green" },
-              { text: "Red", value: "Red" },
-              { text: "Blue", value: "Blue" },
-              { text: "Wave", value: "Wave" }
-            ]
-          },
-          TakeProfitFunction: {
-            name: "Take Profit", type: "options", options: [
-              { text: "BuySellLevels", value: "BuySellLevels" },
-              { text: "RatesHeight", value: "RatesHeight" },
-              { text: "Pips", value: "Pips" },
-              { text: "Green", value: "Green" },
-              { text: "Red", value: "Red" },
-              { text: "Blue", value: "Blue" },
-              { text: "Wave", value: "Wave" }
-            ]
-          },
+          TradingDistanceFunction: { name: "Trading Distance", type: "options", options: tradingMacroTakeProfitFunction() },
+          TakeProfitFunction: { name: "Take Profit", type: "options", options: tradingMacroTakeProfitFunction() },
+          LevelSellBy: { name: "Level Sell", type: "options", options: tradeLevelBys() },
+          LevelBuyBy: { name: "Level Buy", type: "options", options: tradeLevelBys() },
+          LevelSellCloseBy: { name: "Level Sell Close", type: "options", options: tradeLevelBys() },
+          LevelBuyCloseBy: { name: "Level Buy Close", type: "options", options: tradeLevelBys() },
+          ScanCorridorBy: { name: "ScanCorridor", type: "options", options: scanCorridorFunction() },
+          RatesLengthBy: { name: "RatesLength", type: "options", options: ratesLengthFunction() },
+          VoltageFunction_: { name: "Voltage", type: "options", options: voltageFunction() },
+          WaveSmoothBy: { name: "WaveSmoothBy", type: "options", options: waveSmoothByFunction() },
+
           WaveFirstSecondRatioMin: { name: "Wave 1/2 Ratio" }
         };
         var properties = {}, meta = {};
@@ -344,13 +417,12 @@
     this.rsdMin.subscribe(function (rsd) { setRsdMin(0, rsd); });
     this.rsdMin2 = ko.observable();
     this.rsdMin2.subscribe(function (rsd) { setRsdMin(1, rsd); });
-    this.refreshOrders = function () { serverCall("refreshOrders", []); };
-    this.tradeLevelBysRaw = tradeLevelBysRaw;
-    this.tradeLevelBys = ko.observableArray([]);
-    this.setTradeLevelBuy = setTradeLevel.bind(null,true);
-    this.setTradeLevelSell = setTradeLevel.bind(null, false);
-    this.setTradeCloseLevelBuy = setTradeCloseLevel.bind(null, true);
-    this.setTradeCloseLevelSell = setTradeCloseLevel.bind(null, false);
+    this.refreshCharts = function () {
+      this.clearChartData();
+      this.clearChartData2();
+    }.bind(this);
+    //this.setTradeCloseLevelBuy = setTradeCloseLevel.bind(null, true);
+    //this.setTradeCloseLevelSell = setTradeCloseLevel.bind(null, false);
     this.wrapTradeInCorridor = wrapTradeInCorridor;
     this.wrapCurrentPriceInCorridor = function (corridorIndex) { serverCall("wrapCurrentPriceInCorridor", [pair,corridorIndex], "Close levels were reset"); };
     this.moveCorridorWavesCount = moveCorridorWavesCount;
@@ -564,22 +636,80 @@
     this.tradeConditionInfosOr = tradeConditionsInfosOr;
     // #endregion
     // #region Strategies
-    this.strategies = ko.observableArray();
+    var strategyFilter = this.strategyFilter = ko.observable("");
+    this.clearStrategy = function () {
+      serverCall("clearStrategy", [pair], function () {
+        readStrategies();
+      });
+    }
+    var strategies = this.strategies = ko.observableArray();
+    this.strategiesFiltered = ko.pureComputed(function(){
+      return strategies().filter(function (s) {
+        return s.nick.match(new RegExp(strategyFilter(), "i"));
+      });
+    })
+    this.strategiesSelected = ko.pureComputed(function () {
+      return strategies().filter(function (s) {
+        return s.isSelected();
+      });
+    });
+    var strategySelected = this.strategySelected = ko.observable();
+    strategySelected.subscribe(function (s) {
+      if (!s) return;
+      setStrategy(s);
+    });
     this.strategiesDialog = ko.observable();
+    var strategyNick = this.strategyNick = ko.observable();
+    this.strategyNameInput = ko.observable();
+    this.strategyNameDialog = ko.observable();
+    this.saveStrategy = function () {
+      serverCall("saveStrategy", [pair, this.strategyNick()], function () {
+        setTimeout(this.showStrategies.bind(this), 1000);
+      }.bind(this));
+    }.bind(this);
+    this.updateStrategy = function (data) {
+      this.hideStrategies();
+      this.strategyNick(data.nick);
+      $(this.strategyNameDialog()).modal("show");
+      //serverCall("saveStrategy", [pair, nick]);
+    }.bind(this);
     this.showStrategies = function () {
+      $(this.strategyNameDialog()).modal("hide");
       this.readStrategies();
       $(this.strategiesDialog()).modal("show");
+      $(this.strategiesDialog()).find('.modal-dialog').draggable({
+        handle: ".modal-header"
+      });
     }.bind(this);
     this.hideStrategies = function () { $(this.strategiesDialog()).modal("hide"); }.bind(this);
-    this.setStrategy = function (data) {
-      serverCall("loadStrategy", [pair, data.path], " loading <b>" + data.name + "</b>")
+    var setStrategy = this.setStrategy = function (strategy) {
+      var strategyNick = (strategy || {}).nick || this.strategyNick();
+      if (!strategyNick) return showErrorPerm("Empty strategy nick");
+      serverCall("loadStrategy", [pair,strategyNick ], " loading <b>" + strategyNick + "</b>")
         .done(function () {
+          $(this.strategyNameDialog()).modal("hide");
           this.hideStrategies();
         }.bind(this));
     }.bind(this);
-    this.readStrategies = function readStrategies() {
-      return serverCall("readStrategies", [], function (strategies) {
-        this.strategies(strategies);
+    this.removeStrategy = function (permanent) {
+      var note = permanent ? "removed" : "archived";
+      serverCall("removeStrategy", [this.strategyNick(), permanent], " " + note + " strategy <b>" + this.strategyNick() + "</b>")
+        .done(function () {
+          this.showStrategies();
+          setTimeout(this.readStrategies.bind(this), 1000);
+        }.bind(this));
+    }.bind(this);
+    var readStrategies = this.readStrategies = function readStrategies() {
+      return serverCall("readStrategies", [pair], function (strategies) {
+        this.strategies(strategies.map(function (s) {
+          return {
+            nick: s.nick,
+            name: s.diff.join("\n") || s.name,
+            uri: s.uri,
+            isActive: s.isActive,
+            isSelected: ko.observable(false)
+          };
+        }));
       }.bind(this));
     }.bind(this);
 
@@ -621,9 +751,15 @@
       });
       lineChartData.push.apply(lineChartData, rates);
       lineChartData.unshift.apply(lineChartData, rates2);
+      tradeLevels(response.tradeLevels);
+      openTrades(response.trades)
       //lineChartData.sort(function (a, b) { return a.d < b.d ? -1 : 1; });
       response.waveLines.forEach(function (w, i) { w.bold = i == sumStartIndexById(); });
-      self.chartData(chartDataFactory(lineChartData, response.trendLines, response.trendLines2, response.trendLines1, response.tradeLevels, response.askBid, response.trades, response.isTradingActive, true, 0, response.hasStartDate, response.cmaPeriod, closedTrades, self.openTradeGross,response.tpsAvg,response.canBuy,response.canSell,response.waveLines));
+      var chartData = chartDataFactory(lineChartData, response.trendLines, response.trendLines2, response.trendLines1, response.trendLines0, response.tradeLevels, response.askBid, response.trades, response.isTradingActive, true, 0, response.hasStartDate, response.cmaPeriod, closedTrades, self.openTradeGross, response.tpsHigh, response.tpsLow, response.canBuy, response.canSell, response.waveLines);
+      chartData.com = self.com;
+      chartData.com2 = self.com2;
+      chartData.com3 = self.com3;
+      self.chartData(chartData);
       updateChartCmas[0](cma(updateChartCmas[0](), 10, getSecondsBetween(new Date(), d)));
     }
     function updateChart2(response) {
@@ -660,9 +796,16 @@
       var shouldUpdateData = true;
       if (response.isTrader)
         commonChartParts.tradeLevels = response.tradeLevels;
-      var chartData2 = chartDataFactory(ratesAll, response.trendLines, response.trendLines2, response.trendLines1, response.tradeLevels, response.askBid, response.trades, response.isTradingActive, shouldUpdateData, 1, response.hasStartDate, response.cmaPeriod,closedTradesLocal , self.openTradeGross,0, response.canBuy, response.canSell,response.waveLines);
+      var chartData2 = chartDataFactory(ratesAll, response.trendLines, response.trendLines2, response.trendLines1, response.trendLines0, response.tradeLevels, response.askBid, response.trades, response.isTradingActive, shouldUpdateData, 1, response.hasStartDate, response.cmaPeriod, closedTradesLocal, self.openTradeGross, 0, 0, response.canBuy, response.canSell, response.waveLines);
       chartData2.tickDate = lineChartData()[0].d;
-      response.waveLines.forEach(function (w, i) { w.bold = i == sumStartIndexById(); });
+      chartData2.tickDateEnd = lineChartData().slice(-1)[0].d;
+      chartData2.com = self.com;
+      chartData2.com2 = self.com2;
+      chartData2.com3 = self.com3;
+      response.waveLines.forEach(function (w, i) {
+        w.bold = i == sumStartIndexById();
+        w.color = w.isOk ? "limegreen" : "";
+      });
       self.chartData2(chartData2);
       updateChartCmas[1](cma(updateChartCmas[1](), 10, getSecondsBetween(new Date(), d)));
     }
@@ -696,7 +839,12 @@
     // #endregion
     // #endregion
     // #region Read Enums
-    this.ratesLengthFuncs = ko.observableArray();
+    var tradingMacroTakeProfitFunction = this.tradingMacroTakeProfitFunction = ko.observableArray();
+    var tradeLevelBys = this.tradeLevelBys = ko.observableArray();
+    var scanCorridorFunction = this.scanCorridorFunction = ko.observableArray();
+    var ratesLengthFunction = this.ratesLengthFunction = ko.observableArray();
+    var voltageFunction = this.voltageFunction = ko.observableArray();
+    var waveSmoothByFunction = this.waveSmoothByFunction = ko.observableArray();
     // #endregion
     //#region WaveRanges
     var currentWareRangesChartNum = 1;
@@ -762,7 +910,7 @@
       var r = _.chain(diffs).sortBy('d').first().value();
       return r.v;
     }
-    var waveRangesUidProp = "UID";
+    var waveRangesUidProp = "StDev";
     function sumStartIndexById() {
       var uid = sumStartIndex();
       var wr = fuzzyFind(waveRanges(), waveRangeValue.bind(null, waveRangesUidProp), uid);
@@ -796,6 +944,44 @@
     };
 
     //#endregion
+    //#region replayDialog
+    var replayDialog = this.replayDialog = ko.observable();
+    var isReplayOn = this.isReplayOn = ko.observable(false);
+    var replayDateStart = this.replayDateStart = ko.observable();
+    var readReplayProcID = 0;
+    function clearReadReplayArguments() {
+      clearInterval(readReplayProcID);
+      readReplayProcID = 0;
+    }
+    function readReplayArguments() {
+      serverCall("readReplayArguments", withNoNote(pair), function (ra) {
+        replayDateStart(d3.time.format("%m/%d/%y %H:%M")(new Date(ra.DateStart)));
+        isReplayOn(ra.isReplayOn);
+        if (ra.isReplayOn && !readReplayProcID)
+          readReplayProcID = setInterval(readReplayArguments, 5 * 1000);
+        if (!ra.isReplayOn && readReplayProcID) clearReadReplayArguments();
+      }, clearReadReplayArguments);
+    }
+    this.showReplayDialog = function () {
+      $(replayDialog()).dialog({
+        title: "Replay Controls",
+        width: "auto",
+        minHeight:20,
+        dialogClass: "dialog-compact"
+      });
+      readReplayArguments();
+    }
+    this.startReplay = function () {
+      serverCall("startReplay", [pair, replayDateStart()], function (replayArguments) {
+        if (replayArguments.LastWwwError)
+          showErrorPerm(replayArguments.LastWwwError);
+      });
+      readReplayProcID = setInterval(readReplayArguments, 3 * 1000);
+    }
+    this.stopReplay = function () {
+      serverCall("stopReplay", [pair], readReplayArguments);
+    }
+    // #endregion
     // #endregion
 
     // #region Helpers
@@ -824,12 +1010,13 @@
       });
       return root;
     }
-    function chartDataFactory(data, trendLines, trendLines2, trendLines1, tradeLevels, askBid, trades, isTradingActive, shouldUpdateData, chartNum, hasStartDate, cmaPeriod, closedTrades, openTradeGross, tpsAvg, canBuy, canSell, waveLines) {
+    function chartDataFactory(data, trendLines, trendLines2, trendLines1, trendLines0, tradeLevels, askBid, trades, isTradingActive, shouldUpdateData, chartNum, hasStartDate, cmaPeriod, closedTrades, openTradeGross, tpsHigh,tpsLow, canBuy, canSell, waveLines) {
       return {
         data: data ? ko.unwrap(data) : [],
         trendLines: trendLines,
         trendLines2: trendLines2,
         trendLines1: trendLines1,
+        trendLines0: trendLines0,
         waveLines:waveLines,
         tradeLevels: tradeLevels,
         askBid: askBid || {},
@@ -838,7 +1025,7 @@
 
         setTradeLevelActive: setTradeLevelActive,
         setCorridorStartDate: setCorridorStartDate,
-        toggleIsActive: toggleIsActive,
+        togglePause: togglePause,
         toggleStartDate: toggleStartDate,
         moveCorridorWavesCount: moveCorridorWavesCount,
 
@@ -848,7 +1035,8 @@
         cmaPeriod: cmaPeriod,
         closedTrades: closedTrades,
         openTradeGross: openTradeGross,
-        tpsAvg: tpsAvg,
+        tpsHigh: tpsHigh,
+        tpsLow: tpsLow,
 
         canBuy: canBuy,
         canSell:canSell
@@ -879,7 +1067,7 @@
       var i = array.indexOf(item);
       array.splice(i, 1);
     }
-    function defaultChartData(chartNum) { return chartDataFactory(lineChartData, { dates: [] }, {}, {}, null, null, null, false, false, chartNum, false, 0); }
+    function defaultChartData(chartNum) { return chartDataFactory(lineChartData, { dates: [] }, {}, {}, {}, null, null, null, false, false, chartNum, false, 0); }
     // #endregion
   }
   // #endregion
@@ -887,7 +1075,6 @@
   // #region Init SignalR hub
   var host = location.host.match(/localhost/i) ? "ruleover.com:91" : location.host;
   var hubUrl = location.protocol + "//" + host + "/signalr/hubs";
-  document.title = document.title + ":" + location.port;
   //$.getScript(hubUrl, init);
   // Init SignaR client
   init();
@@ -938,6 +1125,22 @@
       dataViewModel.syncTradeConditionInfos(response.tci);
       delete response.tci;
 
+      dataViewModel.com = response.com;
+      delete response.com;
+
+      dataViewModel.com2 = response.com2;
+      delete response.com2;
+
+      dataViewModel.com3 = response.com3;
+      delete response.com3;
+
+      dataViewModel.tradePresetLevel(response.tpls[0] || 0);
+      delete response.tpls;
+
+      dataViewModel.inPause(response.ip);
+      delete response.ip;
+
+
       $('#discussion').text(JSON.stringify(response).replace(/["{}]/g, ""));
 
       resetPlotter();
@@ -948,7 +1151,7 @@
 
       function _isPriceChangeInFlight() {
         var secsInFlight = getSecondsBetween(new Date(), _inFlightPriceChanged);
-        if (secsInFlight > 3) openErrorNote("InFlightPriceChaneDelay", showErrorPerm("PriceChange In flight > " + secsInFlight));
+        if (secsInFlight > 3) openErrorNote("InFlightPriceChaneDelay", showError("PriceChange In flight > " + secsInFlight));
         if (secsInFlight > 6) return false;
         return _inFlightPriceChanged && secsInFlight > 0;
       }
@@ -974,6 +1177,9 @@
     chat.client.addMessage = addMessage;
     chat.client.priceChanged = priceChanged;
     chat.client.tradesChanged = dataViewModel.readClosedTrades;
+    chat.client.lastWwwErrorChanged = function (le) {
+      showErrorPerm(le);
+    };
     chat.client.marketIsOpening = function (market) {
       showInfoPerm(JSON.stringify(market));
     };
@@ -994,20 +1200,46 @@
         return;
       }
       //#region Load static data
-      var defTL = serverCall("readTradeLevelBys", [], function (levels) {
-        dataViewModel.tradeLevelBysRaw(levels);
-        dataViewModel.tradeLevelBys.push.apply(dataViewModel.tradeLevelBys, $.map(levels, function (v, n) { return { text: n, value: v }; }));
-      });
       var defTDT = dataViewModel.readTradeDirectionTriggers();
       var defTC = dataViewModel.readTradingConditions();
       var defTOC = dataViewModel.readTradeOpenActions();
-      var defRLF = serverCall("readEnum", ["RatesLengthFunction"], function (enums) {
-        dataViewModel.ratesLengthFuncs(enums);
+      serverCall("isInVirtual", [], function (response) {
+        dataViewModel.isVirtual(response);
+      })
+      //#region Read Enums
+      serverCall("readEnum", ["RatesLengthFunction"], function (enums) {
+        dataViewModel.ratesLengthFunction(mapEnumsForSettings(enums));
       });
-      var defRS = dataViewModel.readStrategies();
+      function mapEnumsForSettings(enums) {
+        return Object.keys(enums).map(function (v) { return { text: v, value: v } });
+      }
+      var defTPF = serverCall("readEnum", ["TradingMacroTakeProfitFunction"], function (enums) {
+        dataViewModel.tradingMacroTakeProfitFunction(mapEnumsForSettings(enums));
+      });
+      serverCall("readEnum", ["TradeLevelBy"], function (enums) {
+        dataViewModel.tradeLevelBys(mapEnumsForSettings(enums));
+      });
+      serverCall("readEnum", ["WaveSmoothBys"], function (enums) {
+        dataViewModel.waveSmoothByFunction(mapEnumsForSettings(enums));
+      });
+      serverCall("readEnum", ["ScanCorridorFunction"], function (enums) {
+        dataViewModel.scanCorridorFunction(mapEnumsForSettings(enums));
+      });
+      serverCall("readEnum", ["VoltageFunction"], function (enums) {
+        dataViewModel.voltageFunction(mapEnumsForSettings(enums));
+      });
+      serverCall("getPresetTradeLevels", [pair], function (l) {
+        dataViewModel.tradePresetLevel(l[0] || 0);
+      });
+
+      //#endregion
+      dataViewModel.readStrategies();
       //dataViewModel.readNews();
-      $.when.apply($, [defTL,defTC,defTOC,defTDT,defRS]).done(function () {
+      $.when.apply($, [defTC,defTOC,defTDT]).done(function () {
         ko.applyBindings(dataViewModel);
+      });
+      serverCall("readTitleRoot", [], function (t) {
+        document.title = t;
       });
       //#endregion
 
@@ -1017,14 +1249,6 @@
         chat.server.send(pair, $('#message').val());
         // Clear text box and reset focus for next comment.
         $('#message').val('').focus();
-      });
-      $('#stopTrades').click(function () {
-        chat.server.stopTrades(pair);
-        resetPlotter();
-      });
-      $('#closeTrades').click(function () {
-        chat.server.closeTrades(pair);
-        resetPlotter();
       });
       $('#tradeCount').click(function () {
         chat.server.setTradeCount(pair, $("#tradeCounts").val());
